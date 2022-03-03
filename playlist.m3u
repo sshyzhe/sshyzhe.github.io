@@ -232,7 +232,7 @@ https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FASHİON TV CZECH,SLOVAKIA" tvg-logo="" group-title="MODA",FASHİON TV CZECH,SLOVAKIA
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A3 BİKİNİ TV" tvg-logo="" group-title="MODA",A3 BİKİNİ TV
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARİRANG TV" tvg-logo="" group-title="YABANCI",ARİRANG TV
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BRT 1" tvg-logo="" group-title="YABANCI",BRT 1
@@ -502,7 +502,7 @@ http://193.38.54.168:9191/stream/Ola-la/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXTASY TV" tvg-logo="" group-title="+18",EXTASY TV
 http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VİSİT X TV" tvg-logo="" group-title="+18",VİSİT X TV
-https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
+https://stream.visit-x.tv/vxtv/ngrp:live_all/chunklist_w48640111_b2179072.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MİAMİ TV" tvg-logo="" group-title="+18",MİAMİ TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MİAMİ TV LATİNO" tvg-logo="" group-title="+18",MİAMİ TV LATİNO
