@@ -231,6 +231,8 @@ https://fashs043.cloudycdn.services/scte/pg13/pg13_720p_chunklist.m3u8
 https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FASHİON TV CZECH,SLOVAKIA" tvg-logo="" group-title="MODA",FASHİON TV CZECH,SLOVAKIA
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A3 BİKİNİ TV" tvg-logo="" group-title="MODA",A3 BİKİNİ TV
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARİRANG TV" tvg-logo="" group-title="YABANCI",ARİRANG TV
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BRT 1" tvg-logo="" group-title="YABANCI",BRT 1
@@ -249,6 +251,24 @@ https://live-5tvam.cdnvideo.ru/5tvam/5tvam/playlist.m3u8
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="1 TV GEO" tvg-logo="" group-title="YABANCI",1 TV GEO
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RESHNET 13" tvg-logo="" group-title="YABANCI",RESHNET 13
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAKAN 33" tvg-logo="" group-title="YABANCI",MAKAN 33
+https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KNESSET TV" tvg-logo="" group-title="YABANCI",KNESSET TV
+https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KAN 11 ISRAEL" tvg-logo="" group-title="YABANCI",KAN 11 ISRAEL
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KABALA TV" tvg-logo="" group-title="YABANCI",KABALA TV
+https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ISRAEL PARS" tvg-logo="" group-title="YABANCI",ISRAEL PARS
+https://live.pars-israel.com/iptv/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HİDA BROOT TV" tvg-logo="" group-title="YABANCI",HİDA BROOT TV
+https://stream5.shidur.net/htvlive2/smil:live2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HALA TV" tvg-logo="" group-title="YABANCI",HALA TV
+https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ASA CHİLD" tvg-logo="" group-title="YABANCI",ASA CHİLD
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AZ NEWS TABRİZ" tvg-logo="" group-title="YABANCI",AZ NEWS TABRİZ
 https://edge1.socialsmart.tv/aznews/smil:aznews.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="İNTER.AZ" tvg-logo="" group-title="YABANCI",İNTER.AZ
@@ -479,3 +499,15 @@ http://193.38.54.168:9191/stream/Egoist/playlist.m3u8
 http://193.38.54.168:9191/stream/Chalun/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="O-LA-LA TV" tvg-logo="" group-title="+18",O-LA-LA TV
 http://193.38.54.168:9191/stream/Ola-la/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXTASY TV" tvg-logo="" group-title="+18",EXTASY TV
+http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VİSİT X TV" tvg-logo="" group-title="+18",VİSİT X TV
+https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MİAMİ TV" tvg-logo="" group-title="+18",MİAMİ TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MİAMİ TV LATİNO" tvg-logo="" group-title="+18",MİAMİ TV LATİNO
+https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MİAMİ TV MEXİCO" tvg-logo="" group-title="+18",MİAMİ TV MEXİCO
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JENNY LİVE" tvg-logo="" group-title="+18",JENNY LİVE
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
