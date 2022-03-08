@@ -523,23 +523,3 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BABESTATİON TV" tvg-logo="" group-title="+18",BABESTATİON TV
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/26412812337_2201_19378video_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="1.BÖLÜM" tvg-logo="" group-title="SÜNGER BOB VOD",1.BÖLÜM
-https://content.jwplatform.com/manifests/XwaWmuok.m3u8?exp=1646756460&sig=36e1d356c52528cfbc5ce2f6449ecbeb
-#EXTINF:-1 tvg-id="" tvg-name="2.BÖLÜM" tvg-logo="" group-title="SÜNGER BOB VOD",2.BÖLÜM
-https://content.jwplatform.com/manifests/hqpWBdDx.m3u8?exp=1646757180&sig=2c4d6259dce82ddb196d9e4c4a32bd3a
-#EXTINF:-1 tvg-id="" tvg-name="3.BÖLÜM" tvg-logo="" group-title="SÜNGER BOB VOD",3.BÖLÜM
-https://content.jwplatform.com/manifests/76Wlbe1d.m3u8?exp=1646757180&sig=26c5d6a29947063c2a45c296d227cba5
-#EXTINF:-1 tvg-id="" tvg-name="4.BÖLÜM" tvg-logo="" group-title="SÜNGER BOB VOD",4.BÖLÜM
-https://content.jwplatform.com/manifests/3PquPmaI.m3u8?exp=1646757360&sig=b99506b80cf61a0699b4a328adc44321
-#EXTINF:-1 tvg-id="" tvg-name="5.BÖLÜM" tvg-logo="" group-title="SÜNGER BOB VOD",5.BÖLÜM
-https://content.jwplatform.com/manifests/epwdcC3C.m3u8?exp=1646757360&sig=79075c829eded8d4ec8aa13256d431ee
-#EXTINF:-1 tvg-id="" tvg-name="6.BÖLÜM" tvg-logo="" group-title="SÜNGER BOB VOD",6.BÖLÜM
-https://content.jwplatform.com/manifests/0bPwt2uY.m3u8?exp=1646757360&sig=06c39b8b907036f0288d2a2f63fdb15a
-#EXTINF:-1 tvg-id="" tvg-name="7.BÖLÜM" tvg-logo="" group-title="SÜNGER BOB VOD",7.BÖLÜM
-https://content.jwplatform.com/manifests/B5IsU8L2.m3u8?exp=1646757360&sig=fd019f372e3b476dcab8d1c42d4f2419
-#EXTINF:-1 tvg-id="" tvg-name="8.BÖLÜM" tvg-logo="" group-title="SÜNGER BOB VOD",8.BÖLÜM
-https://content.jwplatform.com/manifests/sHBwfBUN.m3u8?exp=1646757540&sig=6c7eb880edd976e93479f8960f874ac8
-#EXTINF:-1 tvg-id="" tvg-name="9.BÖLÜM" tvg-logo="" group-title="SÜNGER BOB VOD",9.BÖLÜM
-https://content.jwplatform.com/manifests/FEIip5Yo.m3u8?exp=1646757540&sig=867866f8b76e4e6a400f3ba780c485b0
-#EXTINF:-1 tvg-id="" tvg-name="10.BÖLÜM" tvg-logo="" group-title="SÜNGER BOB VOD",10.BÖLÜM
-https://content.jwplatform.com/manifests/YfmoIqqY.m3u8?exp=1646757540&sig=203ceeca5a93c1157747a7d934c8bec0
