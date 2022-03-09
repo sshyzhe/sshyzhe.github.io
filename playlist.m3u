@@ -31,6 +31,8 @@ https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
 https://mn-nl.mncdn.com/blutv_eurod2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EURO STAR" tvg-logo="" group-title="ULUSAL",EURO STAR
 https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 7 EU" tvg-logo="" group-title="ULUSAL",KANAL 7 EU
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8" tvg-logo="" group-title="ULUSAL",TV 8
 https://i.imgur.com/aciEdDi.mp4
 #EXTINF:-1 tvg-id="" tvg-name="TV 8.5" tvg-logo="" group-title="ULUSAL",TV 8.5
