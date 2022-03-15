@@ -60,7 +60,7 @@ https://s01.vpis.io/wmtv/wmtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FLASH TV" tvg-logo="" group-title="HABERLER",FLASH TV
 https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A HABER" tvg-logo="" group-title="HABERLER",A HABER
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=syzZUkBDNdU
+http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.youtube.com/watch?v=syzZUkBDNdU
 #EXTINF:-1 tvg-id="" tvg-name="BENGÜTÜRK" tvg-logo="" group-title="HABERLER",BENGÜTÜRK
 https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24" tvg-logo="" group-title="HABERLER",24
@@ -92,7 +92,7 @@ https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TASC TV" tvg-logo="" group-title="HABERLER",TASC TV
 http://stream.tasc.tv:5080/WebRTCApp/streams/524722660612178507728771.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CORONA TV" tvg-logo="" group-title="HABERLER",CORONA TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=NMre6IAAAiU
+http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.youtube.com/watch?v=NMre6IAAAiU
 #EXTINF:-1 tvg-id="" tvg-name="TRT HABER" tvg-logo="" group-title="HABERLER",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT HABER" tvg-logo="" group-title="HABERLER",TGRT HABER
@@ -223,6 +223,16 @@ https://waw1.artiyerelmedya.net/worldturk/bant1/playlist.m3u8
 https://stream.yol.tv:9443/medialive/yol.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MC EU" tvg-logo="" group-title="ARTI YEREL MEDYA",MC EU
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEYAZ MEDYA MÜZİK" tvg-logo="" group-title="ARTI YEREL MEDYA",BEYAZ MEDYA MÜZİK
+https://beyazmedyatv.yayin.com.tr/beyazmedya-muzik/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEYAZ MEDYA SİNEMA" tvg-logo="" group-title="ARTI YEREL MEDYA",BEYAZ MEDYA SİNEMA
+https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yabanci/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEYAZ MEDYA YEŞİLÇAM" tvg-logo="" group-title="ARTI YEREL MEDYA",BEYAZ MEDYA YEŞİLÇAM
+https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yesilcam/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CİNEMİDİ" tvg-logo="" group-title="ARTI YEREL MEDYA",CİNEMİDİ
+https://cdn-cinemidi.yayin.com.tr/cinemidi/cinemidi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANKA TV" tvg-logo="" group-title="ARTI YEREL MEDYA",ANKA TV
+http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/5592.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JASMİN TV" tvg-logo="" group-title="MODA",JASMİN TV
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FASHİON TV PARİS" tvg-logo="" group-title="MODA",FASHİON TV PARİS
@@ -237,8 +247,12 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_gmt_ess_43126_d
 https://fashs043.cloudycdn.services/scte/pg13/pg13_720p_chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FASHİON TV AFRİCA" tvg-logo="" group-title="MODA",FASHİON TV AFRİCA
 https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FASHİON TV CZECH,SLOVAKIA" tvg-logo="" group-title="MODA",FASHİON TV CZECH,SLOVAKIA
+#EXTINF:-1 tvg-id="" tvg-name="FASHİON TV CZECHOSLOVAKİA" tvg-logo="" group-title="MODA",FASHİON TV CZECHOSLOVAKİA
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV BULGARİA" tvg-logo="" group-title="MODA",FASHION TV BULGARİA
+https://cdn3.invivo.bg/Codefashion_5500/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WORLD FASHION TV" tvg-logo="" group-title="MODA",WORLD FASHION TV
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A3 BİKİNİ TV" tvg-logo="" group-title="MODA",A3 BİKİNİ TV
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_540p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARİRANG TV" tvg-logo="" group-title="YABANCI",ARİRANG TV
@@ -295,6 +309,8 @@ http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 https://europe2.livetv.az/azerbaijan/qafqaztv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NAXCİVAN TV" tvg-logo="" group-title="YABANCI",NAXCİVAN TV
 http://canli.naxcivantv.az/media/ntvlive123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL ZAHRA" tvg-logo="" group-title="YABANCI",AL ZAHRA
+https://live.al-zahratv.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FTV" tvg-logo="" group-title="YABANCI",FTV
 https://str2.yodacdn.net/publive/ftv/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EL TV" tvg-logo="" group-title="YABANCI",EL TV
@@ -323,28 +339,76 @@ https://rtvnp.rs/hls/rtvnp.m3u8
 http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RUSSİA 1" tvg-logo="" group-title="YABANCI",RUSSİA 1
 https://gtrkchita.ru:8081/hls/r1-chita_360p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DW ENGLİSH" tvg-logo="" group-title="YABANCI",DW ENGLİSH
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=V9KZGs1MtP4
-#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS" tvg-logo="" group-title="YABANCI",SKY NEWS
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=9Auq9mYxFEE
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="" group-title="YABANCI",FRANCE 24
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=jNhh-OLzWlE
-#EXTINF:-1 tvg-id="" tvg-name="RT" tvg-logo="" group-title="YABANCI",RT
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=V0I5eglJMRI
-#EXTINF:-1 tvg-id="" tvg-name="CNA SG" tvg-logo="" group-title="YABANCI",CNA SG
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=XWq5kBlakcQ
-#EXTINF:-1 tvg-id="" tvg-name="ABC NEWS" tvg-logo="" group-title="YABANCI",ABC NEWS
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=w_Ma8oQLmSM
-#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA" tvg-logo="" group-title="YABANCI",AL JAZEERA
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=-upyPouRrB8
-#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA BALKANS" tvg-logo="" group-title="YABANCI",AL JAZEERA BALKANS
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ng1zLZnjQbI
+#EXTINF:-1 tvg-id="" tvg-name="KRASNAYA" tvg-logo="" group-title="YABANCI",KRASNAYA
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRO" tvg-logo="" group-title="YABANCI",TRO
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT WORLD" tvg-logo="" group-title="YABANCI",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT ARABİA" tvg-logo="" group-title="YABANCI",TRT ARABİA
 https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT KURDİ" tvg-logo="" group-title="YABANCI",TRT KURDİ
 https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KC TV" tvg-logo="" group-title="YABANCI",KC TV
+http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JP 24" tvg-logo="" group-title="YABANCI",JP 24
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EBS1" tvg-logo="" group-title="YABANCI",EBS 1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-logo="" group-title="YABANCI",CCTV 1
+http://iptv.tvfix.org/hls/cctv1hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 2" tvg-logo="" group-title="YABANCI",CCTV 2
+http://iptv.tvfix.org/hls/cctv2hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-logo="" group-title="YABANCI",CCTV 3
+http://iptv.tvfix.org/hls/cctv3hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-logo="" group-title="YABANCI",CCTV 4
+http://iptv.tvfix.org/hls/cctv4hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 5" tvg-logo="" group-title="YABANCI",CCTV 5
+http://iptv.tvfix.org/hls/cctv5hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 6" tvg-logo="" group-title="YABANCI",CCTV 6
+http://iptv.tvfix.org/hls/cctv6hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 7" tvg-logo="" group-title="YABANCI",CCTV 7
+http://iptv.tvfix.org/hls/cctv7hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 8" tvg-logo="" group-title="YABANCI",CCTV 8
+http://iptv.tvfix.org/hls/cctv8hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 9" tvg-logo="" group-title="YABANCI",CCTV 9
+http://iptv.tvfix.org/hls/cctv9hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 10" tvg-logo="" group-title="YABANCI",CCTV 10
+http://iptv.tvfix.org/hls/cctv10hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 11" tvg-logo="" group-title="YABANCI",CCTV 11
+http://iptv.tvfix.org/hls/cctv11hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 12" tvg-logo="" group-title="YABANCI",CCTV 12
+http://iptv.tvfix.org/hls/cctv12hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 13" tvg-logo="" group-title="YABANCI",CCTV 13
+http://iptv.tvfix.org/hls/cctv13hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 14" tvg-logo="" group-title="YABANCI",CCTV 14
+http://iptv.tvfix.org/hls/cctv14hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 15" tvg-logo="" group-title="YABANCI",CCTV 15
+http://iptv.tvfix.org/hls/cctv15hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 16" tvg-logo="" group-title="YABANCI",CCTV 16
+http://iptv.tvfix.org/hls/cctv16hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 17" tvg-logo="" group-title="YABANCI",CCTV 17
+http://iptv.tvfix.org/hls/cctv17hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JADE" tvg-logo="" group-title="YABANCI",JADE
+http://livesec.mudu.tv/watch/ow7vfa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA CBSN NEWS" tvg-logo="" group-title="YABANCI",USA CBSN NEWS
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBSN" tvg-logo="" group-title="YABANCI",CBSN
+http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NEWS MAX" tvg-logo="" group-title="YABANCI",NEWS MAX
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA BLOOMBERG" tvg-logo="" group-title="YABANCI",USA BLOOMBERG
+http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="30A PİTCH" tvg-logo="" group-title="YABANCI",30A PİTCH
+http://www.30a-tv.com/InvPit.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="30A MUSİC" tvg-logo="" group-title="YABANCI",30A MUSİC
+http://30a-tv.com/music.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="30A SİDEWALKS" tvg-logo="" group-title="YABANCI",30 SİDEWALKS
+http://30a-tv.com/sidewalks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="30A TV" tvg-logo="" group-title="YABANCI",30A TV
+http://30a-tv.com/my999.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMERİCAN HORROR" tvg-logo="" group-title="YABANCI",AMERİCAN HORROR
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="POWER TURK" tvg-logo="" group-title="MÜZİK",POWER TURK
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b1428000_sltur.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="POWER TV" tvg-logo="" group-title="MÜZİK",POWER TV
@@ -371,10 +435,6 @@ https://mn-nl.mncdn.com/blutv_milyontv/milyontv_sd.smil/chunklist_b2064000.m3u8
 http://yerelmedya.tv:1935/tatlisestv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARABESK TV" tvg-logo="" group-title="MÜZİK",ARABESK TV
 https://yayin.santraltr.com/hls/arabeskyeni.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAMAR TV" tvg-logo="" group-title="MÜZİK",DAMAR TV
-http://51.255.7.18:8080/hls/damar.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AVİVA TV" tvg-logo="" group-title="MÜZİK",AVİVA
-https://yayin.santraltr.com/hls/vivatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PALA TV" tvg-logo="" group-title="MÜZİK",PALA TV
 http://fidece38941.ozelip.com:2052/palatv/palatv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FİNEST TV" tvg-logo="" group-title="MÜZİK",FİNEST TV
@@ -405,8 +465,6 @@ http://iptv.tvfix.org/hls/cctv11hd.m3u8
 https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MUSİC 24" tvg-logo="" group-title="YABANCI MÜZİK",MUSİC 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY FOLK" tvg-logo="" group-title="YABANCI MÜZİK",SKY FOLK
-https://us.live.skyfolk.mk/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="4 FUN" tvg-logo="" group-title="YABANCI MÜZİK",4 FUN
 https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NRG 91" tvg-logo="" group-title="YABANCI MÜZİK",NRG 91
@@ -437,6 +495,8 @@ http://live.m2.tv/hls2/stream.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DUGA TV" tvg-logo="" group-title="YABANCI MÜZİK",DUGA TV
 http://109.92.29.10:1935/tvduga/tvduga/chunklist_w1950882408.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY FOLK" tvg-logo="" group-title="YABANCI MÜZİK",SKY FOLK
+https://us.live.skyfolk.mk/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BANOVİNA TV" tvg-logo="" group-title="YABANCI MÜZİK",BANOVİNA TV
 https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MUZZİK TV" tvg-logo="" group-title="YABANCI MÜZİK",MUZZİK TV
@@ -483,12 +543,20 @@ https://live.siete.us/mascumbiatvonline/mascumbiatvonline/index.m3u8
 https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PRAİSE HİM MUSİC" tvg-logo="" group-title="YABANCI MÜZİK",PRAİSE HİM MUSİC
 https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV 00'S" tvg-logo="" group-title="YABANCI MÜZİK",MTV 00'S
+http://78.83.191.18:8000/play/a03n
+#EXTINF:-1 tvg-id="" tvg-name="MTV 80'S" tvg-logo="" group-title="YABANCI MÜZİK",MTV 80'S
+http://78.83.191.18:8000/play/a06q
+#EXTINF:-1 tvg-id="" tvg-name="SOYUZ TV" tvg-logo="" group-title="YABANCI MÜZİK",SOYUZ TV
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADİO İTALİA" tvg-logo="" group-title="YABANCI MÜZİK",RADİO İTALİA
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS TV" tvg-logo="" group-title="SPOR",SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A SPOR" tvg-logo="" group-title="SPOR",A SPOR
 https://trkvz-live.daioncdn.net/aspor/aspor_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEİNSPORTS HABER" tvg-logo="" group-title="SPOR",BEİNSPORTS HABER
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=r2vPH7d-_V8
+http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.youtube.com/watch?v=r2vPH7d-_V8
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR" tvg-logo="" group-title="SPOR",TRT SPOR
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR YILDIZ" tvg-logo="" group-title="SPOR",TRT SPOR YILDIZ
@@ -523,3 +591,19 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BABESTATİON TV" tvg-logo="" group-title="+18",BABESTATİON TV
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/26412812337_2201_19378video_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PENTHOUSE PASSİON" tvg-logo="" group-title="+18",PENTHOUSE PASSİON
+http://pl1cdn.plusx.tv:8880/352/mono.m3u8?token=pirek23@gmail.comziomek222222
+#EXTINF:-1 tvg-id="" tvg-name="PENTHOUSE GOLD" tvg-logo="" group-title="+18",PENTHOUSE GOLD
+http://pl1cdn.plusx.tv:8880/353/mono.m3u8?token=pirek23@gmail.comziomek222222
+#EXTINF:-1 tvg-id="" tvg-name="BLU TV AKSİYON" tvg-logo="" group-title="BLU TV",BLU TV AKSİYON
+https://mn-nl.mncdn.com/blutv_aksiyon/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLU TV KOMEDİ" tvg-logo="" group-title="BLU TV",BLU TV KOMEDİ
+https://mn-nl.mncdn.com/blutv_komedi/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLU TV ÖZEL YAPIM" tvg-logo="" group-title="BLU TV",BLU TV ÖZEL YAPIM
+https://mn-nl.mncdn.com/blutv_ozelyapim2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLU TV BELGESEL" tvg-logo="" group-title="BLU TV",BLU TV BELGESEL
+https://mn-nl.mncdn.com/blutv_belgesel_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLU TV ÇOCUK" tvg-logo="" group-title="BLU TV",BLU TV ÇOCUK
+https://mn-nl.mncdn.com/blutv_cocuk_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLU TV NOSTALJİ" tvg-logo="" group-title="BLU TV",BLU TV NOSTALJİ
+https://d1kql9eqq12ti5.cloudfront.net/out/v1/73b6ebdccff34468abfaa716e8114192/master_31.m3u8
