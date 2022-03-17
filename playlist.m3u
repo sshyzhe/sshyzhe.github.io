@@ -108,11 +108,11 @@ https://mn-nl.mncdn.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="@@@ BELGESEL @@@" tvg-logo="" group-title="BELGESEL",@@@ BELGESEL @@@
 http://
 #EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="BELGESEL",TLC
-https://mn-nl.mncdn.com/blutv_tlc_dvr/live_720p2000000/index.m3u8
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="" group-title="BELGESEL",DMAX
-https://mn-nl.mncdn.com/blutv_dmax_dvr/live_720p2000000/index.m3u8
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID" tvg-logo="" group-title="BELGESEL",ID
-https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
+https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT BELGESEL" tvg-logo="" group-title="BELGESEL",TRT BELGESEL
 http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YABAN TV" tvg-logo="" group-title="BELGESEL",YABAN TV
