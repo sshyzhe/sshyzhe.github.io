@@ -509,7 +509,7 @@ https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MUSİC 24" tvg-logo="" group-title="YABANCI MÜZİK",MUSİC 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="4 FUN" tvg-logo="" group-title="YABANCI MÜZİK",4 FUN
-https://stream.4fun.tv:8888/hls/4f.m3u8
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NRG 91" tvg-logo="" group-title="YABANCI MÜZİK",NRG 91
 http://tv.nrg91.gr:1935/onweb/live/chunklist_w2083183515.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AFRO BEATS" tvg-logo="" group-title="YABANCI MÜZİK",AFRO BEATS
