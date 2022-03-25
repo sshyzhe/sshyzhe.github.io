@@ -249,6 +249,154 @@ https://mn-nl.mncdn.com/blutv_belgesel_dvr/live_720p2000000kbps/index.m3u8
 https://mn-nl.mncdn.com/blutv_cocuk_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BLU TV NOSTALJİ" tvg-logo="" group-title="BLU TV",BLU TV NOSTALJİ
 https://mn-nl.mncdn.com/blutv_nostalji_dvr/live_720p2000000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="@@@ TÜRKÇE MÜZİK @@@" tvg-logo="" group-title="TÜRKÇE MÜZİK",@@@ TÜRKÇE MÜZİK @@@
+http://
+#EXTINF:-1 tvg-id="" tvg-name="POWER TURK" tvg-logo="" group-title="TÜRKÇE MÜZİK",POWER TURK
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b1428000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER TV" tvg-logo="" group-title="TÜRKÇE MÜZİK",POWER TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b1428000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER DANCE" tvg-logo="" group-title="TÜRKÇE MÜZİK",POWER DANCE
+https://listen.powerapp.com.tr/dance/dance.smil/chunklist_b1628000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POWER LOVE" tvg-logo="" group-title="TÜRKÇE MÜZİK",POWER LOVE
+https://listen.powerapp.com.tr/plove/love.smil/chunklist_b1628000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT MÜZİK" tvg-logo="" group-title="TÜRKÇE MÜZİK",TRT MÜZİK
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DREAMTÜRK" tvg-logo="" group-title="TÜRKÇE MÜZİK",DREAMTÜRK
+https://mn-nl.mncdn.com/blutv_dreamturk2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NR1" tvg-logo="" group-title="TÜRKÇE MÜZİK",NR1
+https://mn-nl.mncdn.com/blutv_nr12/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NR1 TÜRK" tvg-logo="" group-title="TÜRKÇE MÜZİK",NR1 TÜRK
+https://mn-nl.mncdn.com/blutv_nr1turk2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KRAL TV" tvg-logo="" group-title="TÜRKÇE MÜZİK",KRAL TV
+https://dogus-live.daioncdn.net/kraltv/kraltv_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KRAL POP" tvg-logo="" group-title="TÜRKÇE MÜZİK",KRAL POP
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MİLYON TV" tvg-logo="" group-title="TÜRKÇE MÜZİK",MİLYON TV
+https://mn-nl.mncdn.com/blutv_milyontv/milyontv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TATLISES TV" tvg-logo="" group-title="TÜRKÇE MÜZİK",TATLISES TV
+http://yerelmedya.tv:1935/tatlisestv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARABESK TV" tvg-logo="" group-title="TÜRKÇE MÜZİK",ARABESK TV
+https://yayin.santraltr.com/hls/arabeskyeni.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PALA TV" tvg-logo="" group-title="TÜRKÇE MÜZİK",PALA TV
+http://fidece38941.ozelip.com:2052/palatv/palatv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FİNEST TV" tvg-logo="" group-title="TÜRKÇE MÜZİK",FİNEST TV
+http://media.finest.tv/hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="@@@ YABANCI MÜZİK @@@" tvg-logo="" group-title="YABANCI MÜZİK",@@@ YABANCI MÜZİK @@@
+http://
+#EXTINF:-1 tvg-id="" tvg-name="RELOAD TV" tvg-logo="" group-title="YABANCI MÜZİK",RELOAD TV
+http://web.onair-radio.eu:1935/video/video/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CLUBBİNG TV" tvg-logo="" group-title="YABANCI MÜZİK",CLUBBİNG TV
+https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="X LİTE" tvg-logo="" group-title="YABANCI MÜZİK",X LİTE
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="V2 BEAT" tvg-logo="" group-title="YABANCI MÜZİK",V2 BEAT
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEROUNO TV" tvg-logo="" group-title="YABANCI MÜZİK",ZEROUNO TV
+http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CRABS TV" tvg-logo="" group-title="YABANCI MÜZİK",CRABS TV
+http://stream-norst.cf:8080/crabs/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSİC PLUS" tvg-logo="" group-title="YABANCI MÜZİK",MUSİC PLUS
+http://79.172.214.45:10190/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="THT MUSİC" tvg-logo="" group-title="YABANCI MÜZİK",THT MUSİC
+http://83.222.205.65:8080/tntmusic/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STRANA FM" tvg-logo="" group-title="YABANCI MÜZİK",STRANA FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV MUSİC" tvg-logo="" group-title="YABANCI MÜZİK",CCTV MUSİC
+http://iptv.tvfix.org/hls/cctv15hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV OPERA" tvg-logo="" group-title="YABANCI MÜZİK",CCTV OPERA
+http://iptv.tvfix.org/hls/cctv11hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PMC MUSİC" tvg-logo="" group-title="YABANCI MÜZİK",PMC MUSİC
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSİC 24" tvg-logo="" group-title="YABANCI MÜZİK",MUSİC 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4 FUN" tvg-logo="" group-title="YABANCI MÜZİK",4 FUN
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NRG 91" tvg-logo="" group-title="YABANCI MÜZİK",NRG 91
+http://tv.nrg91.gr:1935/onweb/live/chunklist_w2083183515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFRO BEATS" tvg-logo="" group-title="YABANCI MÜZİK",AFRO BEATS
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALEGRİA TV" tvg-logo="" group-title="YABANCI MÜZİK",ALEGRİA TV
+https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXS TV" tvg-logo="" group-title="YABANCI MÜZİK",AXS TV
+https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAROLİNE TV" tvg-logo="" group-title="YABANCI MÜZİK",CAROLİNE TV
+https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CİNEVOİCE" tvg-logo="" group-title="YABANCI MÜZİK",CİNEVOİCE
+https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEEJAY TV" tvg-logo="" group-title="YABANCI MÜZİK",DEEJAY TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DESİ CHANNEL" tvg-logo="" group-title="YABANCI MÜZİK",DESİ CHANNEL
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
+#EXT#EXTINF:-1 tvg-id="" tvg-name="DİJLAH ARAP" tvg-logo="" group-title="YABANCI MÜZİK",DİJLAH ARAP
+https://ghaasiflu.online/tarab/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EBC TV" tvg-logo="" group-title="YABANCI MÜZİK",EBC TV
+https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KROENİT TV" tvg-logo="" group-title="YABANCI MÜZİK",KROENİT TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M1 TV" tvg-logo="" group-title="YABANCI MÜZİK",M1 TV
+http://live.m2.tv/hls2/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADİO M20" tvg-logo="" group-title="YABANCI MÜZİK",RADİO M20
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DUGA TV" tvg-logo="" group-title="YABANCI MÜZİK",DUGA TV
+http://109.92.29.10:1935/tvduga/tvduga/chunklist_w1950882408.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY FOLK" tvg-logo="" group-title="YABANCI MÜZİK",SKY FOLK
+https://us.live.skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BANOVİNA TV" tvg-logo="" group-title="YABANCI MÜZİK",BANOVİNA TV
+https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VİKOM" tvg-logo="" group-title="YABANCI",VİKOM
+http://167.172.39.13/hls/tvcityub.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN MUSİC" tvg-logo="" group-title="YABANCI",BALKAN MUSİC
+http://163.172.88.94:12989/live/BalkanMusic/121212/13.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUZZİK TV" tvg-logo="" group-title="YABANCI MÜZİK",MUZZİK TV
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPRİNT TV" tvg-logo="" group-title="YABANCI MÜZİK",SPRİNT TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KİSS KİSS TV" tvg-logo="" group-title="YABANCI MÜZİK",KİSS KİSS TV
+https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="30 A TV" tvg-logo="" group-title="YABANCI MÜZİK",30 A TV
+https://30a-tv.com/music.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1 HD MUSİC" tvg-logo="" group-title="YABANCI MÜZİK",1 HD MUSİC
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADİO SHANSON" tvg-logo="" group-title="YABANCI MÜZİK",RADİO SHANSON
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1 MUZ TV" tvg-logo="" group-title="YABANCI MÜZİK",1 MUZ TV
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RETRO TV" tvg-logo="" group-title="YABANCI MÜZİK",RETRO TV
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OCKO TV" tvg-logo="" group-title="YABANCI MÜZİK",OCKO TV
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/live_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OCKO GOLD" tvg-logo="" group-title="YABANCI MÜZİK",OCKO GOLD
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/live_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OCKO EXPRES" tvg-logo="" group-title="YABANCI MÜZİK",OCKO EXPRES
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/live_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERSİAN MUSİC" tvg-logo="" group-title="YABANCI MÜZİK",PERSİAN MUSİC
+http://51.210.199.24/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFN MUSİC" tvg-logo="" group-title="YABANCI MÜZİK",AFN MUSİC
+https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MARTUM MUSİC" tvg-logo="" group-title="YABANCI MÜZİK",MARTUM MUSİC
+https://mntv.livebox.co.in/musichls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOOGLE BOLLYWOOD" tvg-logo="" group-title="YABANCI MÜZİK",BOOGLE BOLLYWOOD
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PORTAL FOX" tvg-logo="" group-title="YABANCI MÜZİK",PORTAL FOX
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HATUN TV" tvg-logo="" group-title="YABANCI MÜZİK",HATUN TV
+https://live.siete.us/bestcablehatuntv/bestcablehatuntv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEST CABLE MUSİC" tvg-logo="" group-title="YABANCI MÜZİK",BEST CABLE MUSİC
+https://live.siete.us/bestcablemusic/bestcablemusic/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MASCUMBİA TV" tvg-logo="" group-title="YABANCI MÜZİK",MASCUMBİA TV
+https://live.siete.us/mascumbiatvonline/mascumbiatvonline/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KARİBENA TV" tvg-logo="" group-title="YABANCI MÜZİK",KARİBENA TV
+https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRAİSE HİM MUSİC" tvg-logo="" group-title="YABANCI MÜZİK",PRAİSE HİM MUSİC
+https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV 00'S" tvg-logo="" group-title="YABANCI MÜZİK",MTV 00'S
+http://78.83.191.18:8000/play/a03n
+#EXTINF:-1 tvg-id="" tvg-name="MTV 80'S" tvg-logo="" group-title="YABANCI MÜZİK",MTV 80'S
+http://78.83.191.18:8000/play/a06q
+#EXTINF:-1 tvg-id="" tvg-name="SOYUZ TV" tvg-logo="" group-title="YABANCI MÜZİK",SOYUZ TV
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RADİO İTALİA" tvg-logo="" group-title="YABANCI MÜZİK",RADİO İTALİA
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="@@@ MODA @@@" tvg-logo="" group-title="MODA",@@@ MODA @@@
 http://
 #EXTINF:-1 tvg-id="" tvg-name="JASMİN TV" tvg-logo="" group-title="MODA",JASMİN TV
@@ -451,154 +599,6 @@ http://ip2.xxlservices.com:8081/seharaonline/live/chunks.m3u8
 https://stream.zapad.tv:3622/live/tvzapadlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SLOVENSKA TV" tvg-logo="" group-title="YABANCI",SLOVENSKA TV
 http://89.201.163.244:8080/hls/hdmi.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="@@@ TÜRKÇE MÜZİK @@@" tvg-logo="" group-title="TÜRKÇE MÜZİK",@@@ TÜRKÇE MÜZİK @@@
-http://
-#EXTINF:-1 tvg-id="" tvg-name="POWER TURK" tvg-logo="" group-title="TÜRKÇE MÜZİK",POWER TURK
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b1428000_sltur.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POWER TV" tvg-logo="" group-title="TÜRKÇE MÜZİK",POWER TV
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b1428000_sltur.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POWER DANCE" tvg-logo="" group-title="TÜRKÇE MÜZİK",POWER DANCE
-https://listen.powerapp.com.tr/dance/dance.smil/chunklist_b1628000_sltur.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POWER LOVE" tvg-logo="" group-title="TÜRKÇE MÜZİK",POWER LOVE
-https://listen.powerapp.com.tr/plove/love.smil/chunklist_b1628000_sltur.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT MÜZİK" tvg-logo="" group-title="TÜRKÇE MÜZİK",TRT MÜZİK
-https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DREAMTÜRK" tvg-logo="" group-title="TÜRKÇE MÜZİK",DREAMTÜRK
-https://mn-nl.mncdn.com/blutv_dreamturk2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NR1" tvg-logo="" group-title="TÜRKÇE MÜZİK",NR1
-https://mn-nl.mncdn.com/blutv_nr12/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NR1 TÜRK" tvg-logo="" group-title="TÜRKÇE MÜZİK",NR1 TÜRK
-https://mn-nl.mncdn.com/blutv_nr1turk2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KRAL TV" tvg-logo="" group-title="TÜRKÇE MÜZİK",KRAL TV
-https://dogus-live.daioncdn.net/kraltv/kraltv_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KRAL POP" tvg-logo="" group-title="TÜRKÇE MÜZİK",KRAL POP
-https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MİLYON TV" tvg-logo="" group-title="TÜRKÇE MÜZİK",MİLYON TV
-https://mn-nl.mncdn.com/blutv_milyontv/milyontv_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TATLISES TV" tvg-logo="" group-title="TÜRKÇE MÜZİK",TATLISES TV
-http://yerelmedya.tv:1935/tatlisestv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARABESK TV" tvg-logo="" group-title="TÜRKÇE MÜZİK",ARABESK TV
-https://yayin.santraltr.com/hls/arabeskyeni.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PALA TV" tvg-logo="" group-title="TÜRKÇE MÜZİK",PALA TV
-http://fidece38941.ozelip.com:2052/palatv/palatv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FİNEST TV" tvg-logo="" group-title="TÜRKÇE MÜZİK",FİNEST TV
-http://media.finest.tv/hls/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="@@@ YABANCI MÜZİK @@@" tvg-logo="" group-title="YABANCI MÜZİK",@@@ YABANCI MÜZİK @@@
-http://
-#EXTINF:-1 tvg-id="" tvg-name="RELOAD TV" tvg-logo="" group-title="YABANCI MÜZİK",RELOAD TV
-http://web.onair-radio.eu:1935/video/video/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CLUBBİNG TV" tvg-logo="" group-title="YABANCI MÜZİK",CLUBBİNG TV
-https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="X LİTE" tvg-logo="" group-title="YABANCI MÜZİK",X LİTE
-https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="V2 BEAT" tvg-logo="" group-title="YABANCI MÜZİK",V2 BEAT
-https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZEROUNO TV" tvg-logo="" group-title="YABANCI MÜZİK",ZEROUNO TV
-http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CRABS TV" tvg-logo="" group-title="YABANCI MÜZİK",CRABS TV
-http://stream-norst.cf:8080/crabs/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSİC PLUS" tvg-logo="" group-title="YABANCI MÜZİK",MUSİC PLUS
-http://79.172.214.45:10190/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THT MUSİC" tvg-logo="" group-title="YABANCI MÜZİK",THT MUSİC
-http://83.222.205.65:8080/tntmusic/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STRANA FM" tvg-logo="" group-title="YABANCI MÜZİK",STRANA FM
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV MUSİC" tvg-logo="" group-title="YABANCI MÜZİK",CCTV MUSİC
-http://iptv.tvfix.org/hls/cctv15hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV OPERA" tvg-logo="" group-title="YABANCI MÜZİK",CCTV OPERA
-http://iptv.tvfix.org/hls/cctv11hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PMC MUSİC" tvg-logo="" group-title="YABANCI MÜZİK",PMC MUSİC
-https://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSİC 24" tvg-logo="" group-title="YABANCI MÜZİK",MUSİC 24
-https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="4 FUN" tvg-logo="" group-title="YABANCI MÜZİK",4 FUN
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NRG 91" tvg-logo="" group-title="YABANCI MÜZİK",NRG 91
-http://tv.nrg91.gr:1935/onweb/live/chunklist_w2083183515.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AFRO BEATS" tvg-logo="" group-title="YABANCI MÜZİK",AFRO BEATS
-https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALEGRİA TV" tvg-logo="" group-title="YABANCI MÜZİK",ALEGRİA TV
-https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXS TV" tvg-logo="" group-title="YABANCI MÜZİK",AXS TV
-https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAROLİNE TV" tvg-logo="" group-title="YABANCI MÜZİK",CAROLİNE TV
-https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CİNEVOİCE" tvg-logo="" group-title="YABANCI MÜZİK",CİNEVOİCE
-https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEEJAY TV" tvg-logo="" group-title="YABANCI MÜZİK",DEEJAY TV
-http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DESİ CHANNEL" tvg-logo="" group-title="YABANCI MÜZİK",DESİ CHANNEL
-https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
-#EXT#EXTINF:-1 tvg-id="" tvg-name="DİJLAH ARAP" tvg-logo="" group-title="YABANCI MÜZİK",DİJLAH ARAP
-https://ghaasiflu.online/tarab/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EBC TV" tvg-logo="" group-title="YABANCI MÜZİK",EBC TV
-https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KROENİT TV" tvg-logo="" group-title="YABANCI MÜZİK",KROENİT TV
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="M1 TV" tvg-logo="" group-title="YABANCI MÜZİK",M1 TV
-http://live.m2.tv/hls2/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADİO M20" tvg-logo="" group-title="YABANCI MÜZİK",RADİO M20
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DUGA TV" tvg-logo="" group-title="YABANCI MÜZİK",DUGA TV
-http://109.92.29.10:1935/tvduga/tvduga/chunklist_w1950882408.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY FOLK" tvg-logo="" group-title="YABANCI MÜZİK",SKY FOLK
-https://us.live.skyfolk.mk/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BANOVİNA TV" tvg-logo="" group-title="YABANCI MÜZİK",BANOVİNA TV
-https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VİKOM" tvg-logo="" group-title="YABANCI",VİKOM
-http://167.172.39.13/hls/tvcityub.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BALKAN MUSİC" tvg-logo="" group-title="YABANCI",BALKAN MUSİC
-http://163.172.88.94:12989/live/BalkanMusic/121212/13.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUZZİK TV" tvg-logo="" group-title="YABANCI MÜZİK",MUZZİK TV
-https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPRİNT TV" tvg-logo="" group-title="YABANCI MÜZİK",SPRİNT TV
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KİSS KİSS TV" tvg-logo="" group-title="YABANCI MÜZİK",KİSS KİSS TV
-https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="30 A TV" tvg-logo="" group-title="YABANCI MÜZİK",30 A TV
-https://30a-tv.com/music.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="1 HD MUSİC" tvg-logo="" group-title="YABANCI MÜZİK",1 HD MUSİC
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADİO SHANSON" tvg-logo="" group-title="YABANCI MÜZİK",RADİO SHANSON
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="1 MUZ TV" tvg-logo="" group-title="YABANCI MÜZİK",1 MUZ TV
-http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RETRO TV" tvg-logo="" group-title="YABANCI MÜZİK",RETRO TV
-https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OCKO TV" tvg-logo="" group-title="YABANCI MÜZİK",OCKO TV
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/live_hq.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OCKO GOLD" tvg-logo="" group-title="YABANCI MÜZİK",OCKO GOLD
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/live_hq.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OCKO EXPRES" tvg-logo="" group-title="YABANCI MÜZİK",OCKO EXPRES
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/live_hq.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PERSİAN MUSİC" tvg-logo="" group-title="YABANCI MÜZİK",PERSİAN MUSİC
-http://51.210.199.24/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AFN MUSİC" tvg-logo="" group-title="YABANCI MÜZİK",AFN MUSİC
-https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MARTUM MUSİC" tvg-logo="" group-title="YABANCI MÜZİK",MARTUM MUSİC
-https://mntv.livebox.co.in/musichls/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOOGLE BOLLYWOOD" tvg-logo="" group-title="YABANCI MÜZİK",BOOGLE BOLLYWOOD
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PORTAL FOX" tvg-logo="" group-title="YABANCI MÜZİK",PORTAL FOX
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HATUN TV" tvg-logo="" group-title="YABANCI MÜZİK",HATUN TV
-https://live.siete.us/bestcablehatuntv/bestcablehatuntv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEST CABLE MUSİC" tvg-logo="" group-title="YABANCI MÜZİK",BEST CABLE MUSİC
-https://live.siete.us/bestcablemusic/bestcablemusic/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MASCUMBİA TV" tvg-logo="" group-title="YABANCI MÜZİK",MASCUMBİA TV
-https://live.siete.us/mascumbiatvonline/mascumbiatvonline/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KARİBENA TV" tvg-logo="" group-title="YABANCI MÜZİK",KARİBENA TV
-https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PRAİSE HİM MUSİC" tvg-logo="" group-title="YABANCI MÜZİK",PRAİSE HİM MUSİC
-https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV 00'S" tvg-logo="" group-title="YABANCI MÜZİK",MTV 00'S
-http://78.83.191.18:8000/play/a03n
-#EXTINF:-1 tvg-id="" tvg-name="MTV 80'S" tvg-logo="" group-title="YABANCI MÜZİK",MTV 80'S
-http://78.83.191.18:8000/play/a06q
-#EXTINF:-1 tvg-id="" tvg-name="SOYUZ TV" tvg-logo="" group-title="YABANCI MÜZİK",SOYUZ TV
-http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADİO İTALİA" tvg-logo="" group-title="YABANCI MÜZİK",RADİO İTALİA
-http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="@@@ SPOR @@@" tvg-logo="" group-title="SPOR",@@@ SPOR @@@
 http://
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS TV" tvg-logo="" group-title="SPOR",SPORTS TV
