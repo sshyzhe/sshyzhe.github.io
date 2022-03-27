@@ -115,8 +115,6 @@ https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/mas
 http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YABAN TV" tvg-logo="" group-title="BELGESEL",YABAN TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CRİ TURK" tvg-logo="" group-title="BELGESEL",CRİ TURK
-https://www.guventechnology.com:19360/criturktv/criturktv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT BELGESEL" tvg-logo="" group-title="BELGESEL",TGRT BELGESEL
 https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="@@@ ÇOCUK @@@" tvg-logo="" group-title="ÇOCUK",@@@ ÇOCUK @@@
@@ -227,9 +225,11 @@ https://waw1.artiyerelmedya.net/worldturk/bant1/playlist.m3u8
 https://stream.yol.tv:9443/medialive/yol.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MC EU" tvg-logo="" group-title="ARTI YEREL MEDYA",MC EU
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEYAZ MEDYA SİNEMA" tvg-logo="" group-title="ARTI YEREL MEDYA",BEYAZ MEDYA SİNEMA
+#EXTINF:-1 tvg-id="" tvg-name="CRİ TURK" tvg-logo="" group-title="ARTI YEREL MEDYA",CRİ TURK
+https://www.guventechnology.com:19360/criturktv/criturktv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEYAZ SİNEMA" tvg-logo="" group-title="ARTI YEREL MEDYA",BEYAZ SİNEMA
 https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yabanci/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEYAZ MEDYA YEŞİLÇAM" tvg-logo="" group-title="ARTI YEREL MEDYA",BEYAZ MEDYA YEŞİLÇAM
+#EXTINF:-1 tvg-id="" tvg-name="BEYAZ YEŞİLÇAM" tvg-logo="" group-title="ARTI YEREL MEDYA",BEYAZ YEŞİLÇAM
 https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yesilcam/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CİNEMİDİ" tvg-logo="" group-title="ARTI YEREL MEDYA",CİNEMİDİ
 https://cdn-cinemidi.yayin.com.tr/cinemidi/cinemidi/playlist.m3u8
@@ -569,13 +569,11 @@ http://30a-tv.com/music.m3u8
 http://30a-tv.com/sidewalks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="30A TV" tvg-logo="" group-title="YABANCI",30A TV
 http://30a-tv.com/my999.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMERİCAN HORROR" tvg-logo="" group-title="YABANCI",AMERİCAN HORROR
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KURİR TV" tvg-logo="" group-title="YABANCI",KURİR TV
 http://kurir-tv.haste-cdn.net/providus/live2805_lq/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTRS" tvg-logo="" group-title="YABANCI",RTRS
 https://parh.rtrs.tv/tv/live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BN TELEVİZİJA" tvg-logo="" group-title="YABANCI",BN TELEVİZİJA
+#EXTINF:-1 tvg-id="" tvg-name="BH TV" tvg-logo="" group-title="YABANCI",BH TV
 https://dns2.rtvbn.com:8080/live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RED TV" tvg-logo="" group-title="YABANCI",RED TV
 https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
