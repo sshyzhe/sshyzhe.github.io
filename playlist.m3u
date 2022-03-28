@@ -393,6 +393,16 @@ https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
 http://78.83.191.18:8000/play/a03n
 #EXTINF:-1 tvg-id="" tvg-name="MTV 80'S" tvg-logo="" group-title="YABANCI MÜZİK",MTV 80'S
 http://78.83.191.18:8000/play/a06q
+#EXTINF:-1 tvg-id="" tvg-name="PLANETA TV" tvg-logo="" group-title="YABANCI MÜZİK",PLANETA TV
+http://78.83.191.18:8000/play/a03t
+#EXTINF:-1 tvg-id="" tvg-name="BALKANİKA TV" tvg-logo="" group-title="YABANCI MÜZİK",BALKANİKA TV
+http://78.83.191.18:8000/play/a05h
+#EXTINF:-1 tvg-id="" tvg-name="FEN TV" tvg-logo="" group-title="YABANCI MÜZİK",FEN TV
+http://78.83.191.18:8000/play/a05f
+#EXTINF:-1 tvg-id="" tvg-name="THE VOİCE" tvg-logo="" group-title="YABANCI MÜZİK",THE VOİCE
+http://78.83.191.18:8000/play/a043
+#EXTINF:-1 tvg-id="" tvg-name="DM SAT" tvg-logo="" group-title="YABANCI MÜZİK",DM SAT
+http://78.83.191.18:8000/play/a06x
 #EXTINF:-1 tvg-id="" tvg-name="SOYUZ TV" tvg-logo="" group-title="YABANCI MÜZİK",SOYUZ TV
 http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RADİO İTALİA" tvg-logo="" group-title="YABANCI MÜZİK",RADİO İTALİA
@@ -661,6 +671,8 @@ http://cdn.adultiptv.net/blonde.m3u8
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ASİAN" tvg-logo="" group-title="+18",ASİAN
 http://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HUSTLER TV" tvg-logo="" group-title="+18",HUSTLER TV
+http://78.83.191.18:8000/play/a078
 #EXTINF:-1 tvg-id="" tvg-name="EXTASY TV" tvg-logo="" group-title="+18",EXTASY TV
 http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VİSİT X TV" tvg-logo="" group-title="+18",VİSİT X TV
