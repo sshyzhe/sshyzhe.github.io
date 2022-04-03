@@ -40,7 +40,7 @@ https://mn-nl.mncdn.com/blutv_tv8_52/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV8 İNT" tvg-logo="" group-title="ULUSAL",TV8 İNT
 https://mn-nl.mncdn.com/blutv_tv8_int2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A2" tvg-logo="" group-title="ULUSAL",A2
-http://84.22.33.214/A2/index.m3u8
+https://sshyzhe.github.io/video2.mp4
 #EXTINF:-1 tvg-id="" tvg-name="TVEM" tvg-logo="" group-title="ULUSAL",TVEM
 http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="360 TV" tvg-logo="" group-title="ULUSAL",360 TV
