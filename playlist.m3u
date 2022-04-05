@@ -298,8 +298,6 @@ https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEROUNO TV" tvg-logo="" group-title="YABANCI MÜZİK",ZEROUNO TV
 http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CRABS TV" tvg-logo="" group-title="YABANCI MÜZİK",CRABS TV
-http://stream-norst.cf:8080/crabs/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MUSİC PLUS" tvg-logo="" group-title="YABANCI MÜZİK",MUSİC PLUS
 http://79.172.214.45:10190/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="THT MUSİC" tvg-logo="" group-title="YABANCI MÜZİK",THT MUSİC
