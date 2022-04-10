@@ -122,8 +122,6 @@ https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="@@@ ÇOCUK @@@" tvg-logo="" group-title="ÇOCUK",@@@ ÇOCUK @@@
 https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DİSNEY CHANNEL" tvg-logo="" group-title="ÇOCUK",DİSNEY CHANNEL
-http://iptvmasterlink.dyndns.org:8080/DisneyChannel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="ÇOCUK",CARTOON NETWORK
 http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT ÇOCUK" tvg-logo="" group-title="ÇOCUK",TRT ÇOCUK
@@ -239,6 +237,8 @@ https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yesilcam/video.m3u8
 https://cdn-cinemidi.yayin.com.tr/cinemidi/cinemidi/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ANKA TV" tvg-logo="" group-title="ARTI YEREL MEDYA",ANKA TV
 http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/5592.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SLOW KARADENİZ TV" tvg-logo="" group-title="ARTI YEREL MEDYA",SLOW KARADENİZ TV
+https://slowkaradeniztv.com:3390/multi_web/play.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="@@@ BLU TV @@@" tvg-logo="" group-title="BLU TV",@@@ BLU TV @@@
 https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
@@ -304,10 +304,6 @@ http://79.172.214.45:10190/stream.m3u8
 http://83.222.205.65:8080/tntmusic/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STRANA FM" tvg-logo="" group-title="YABANCI MÜZİK",STRANA FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV MUSİC" tvg-logo="" group-title="YABANCI MÜZİK",CCTV MUSİC
-http://iptv.tvfix.org/hls/cctv15hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV OPERA" tvg-logo="" group-title="YABANCI MÜZİK",CCTV OPERA
-http://iptv.tvfix.org/hls/cctv11hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PMC MUSİC" tvg-logo="" group-title="YABANCI MÜZİK",PMC MUSİC
 https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MUSİC 24" tvg-logo="" group-title="YABANCI MÜZİK",MUSİC 24
@@ -694,19 +690,13 @@ http://cdn.adultiptv.net/blonde.m3u8
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ASİAN" tvg-logo="" group-title="+18",ASİAN
 http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HUSTLER TV" tvg-logo="" group-title="+18",HUSTLER TV
-http://78.83.191.18:8000/play/a078
 #EXTINF:-1 tvg-id="" tvg-name="EXTASY TV" tvg-logo="" group-title="+18",EXTASY TV
 http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VİSİT X TV" tvg-logo="" group-title="+18",VİSİT X TV
 https://stream.visit-x.tv/vxtv/ngrp:live_all/chunklist_w48640111_b2179072.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MİAMİ TV" tvg-logo="" group-title="+18",MİAMİ TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MİAMİ TV LATİNO" tvg-logo="" group-title="+18",MİAMİ TV LATİNO
 https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MİAMİ TV MEXİCO" tvg-logo="" group-title="+18",MİAMİ TV MEXİCO
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JENNY LİVE" tvg-logo="" group-title="+18",JENNY LİVE
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BABESTATİON TV" tvg-logo="" group-title="+18",BABESTATİON TV
-http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/26412812337_2201_19378video_720.m3u8
