@@ -700,3 +700,7 @@ https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MİAMİ TV MEXİCO" tvg-logo="" group-title="+18",MİAMİ TV MEXİCO
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AST TV 1" tvg-logo="" group-title="+18",AST TV 1
+https://www.ast.tv/stream/1/ultra.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AST TV 2" tvg-logo="" group-title="+18",AST TV 2
+https://www.ast.tv/stream/2/ultra.m3u8
