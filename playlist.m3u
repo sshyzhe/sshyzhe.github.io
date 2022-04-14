@@ -694,9 +694,9 @@ http://cdn.adultiptv.net/asian.m3u8
 http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VİSİT X TV" tvg-logo="" group-title="+18",VİSİT X TV
 https://stream.visit-x.tv/vxtv/ngrp:live_all/chunklist_w48640111_b2179072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MİAMİ TV" tvg-logo="" group-title="+18",MİAMİ TV
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MİAMİ TV LATİNO" tvg-logo="" group-title="+18",MİAMİ TV LATİNO
 https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MİAMİ TV MEXİCO" tvg-logo="" group-title="+18",MİAMİ TV MEXİCO
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JENNY LİVE" tvg-logo="" group-title="+18",JENNY LİVE
-https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
