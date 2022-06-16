@@ -258,21 +258,6 @@ https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EBA LİSE" tvg-logo="" group-title="ÇOCUK",EBA LİSE
 https://tv-e-okul02.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="@@@ BLU TV @@@" tvg-logo="" group-title="BLU TV",@@@ BLU TV @@@
-https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BLU TV AKSİYON" tvg-logo="" group-title="BLU TV",BLU TV AKSİYON
-https://mn-nl.mncdn.com/blutv_aksiyon/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BLU TV KOMEDİ" tvg-logo="" group-title="BLU TV",BLU TV KOMEDİ
-https://mn-nl.mncdn.com/blutv_komedi/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BLU TV ÖZEL YAPIM" tvg-logo="" group-title="BLU TV",BLU TV ÖZEL YAPIM
-https://mn-nl.mncdn.com/blutv_ozelyapim2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BLU TV BELGESEL" tvg-logo="" group-title="BLU TV",BLU TV BELGESEL
-https://mn-nl.mncdn.com/blutv_belgesel_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BLU TV ÇOCUK" tvg-logo="" group-title="BLU TV",BLU TV ÇOCUK
-https://mn-nl.mncdn.com/blutv_cocuk_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BLU TV NOSTALJİ" tvg-logo="" group-title="BLU TV",BLU TV NOSTALJİ
-https://mn-nl.mncdn.com/blutv_nostalji_dvr/live_720p2000000/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="@@@ TÜRKÇE MÜZİK @@@" tvg-logo="" group-title="TÜRKÇE MÜZİK",@@@ TÜRKÇE MÜZİK @@@
 https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="POWER TURK" tvg-logo="" group-title="TÜRKÇE MÜZİK",POWER TURK
@@ -438,6 +423,12 @@ http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8
 http://stream.radiovan.fm/stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEZZO" tvg-logo="" group-title="YABANCI MÜZİK",MEZZO
 https://sc.id-tv.kz/mezzo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SLUHAY.BY" tvg-logo="" group-title="YABANCI MÜZİK",SLUHAY.BY
+https://sluhay.by/live/Ch045pub/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CLUBBİNG TV" tvg-logo="" group-title="YABANCI MÜZİK",CLUBBİNG TV
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="" group-title="YABANCI MÜZİK",TRACE URBAN
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="@@@ YABANCI @@@" tvg-logo="" group-title="YABANCI",@@@ YABANCI @@@
 https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
@@ -483,6 +474,16 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AN TV" tvg-logo="" group-title="YABANCI",AN TV
 http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="THE YOUNG TURKS" tvg-logo="" group-title="YABANCI",THE YOUNG TURKS
+https://tyt-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="YABANCI",CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YAHOO FİNANCE" tvg-logo="" group-title="YABANCI",YAHOO FİNANCE
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NİCK PLUTO" tvg-logo="" group-title="YABANCI",NİCK PLUTO
+https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SMİTHSONİAN CHANNEL" tvg-logo="" group-title="YABANCI",SMİTHSONİAN CHANNEL
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="@@@ MODA @@@" tvg-logo="" group-title="MODA",@@@ MODA @@@
 https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
