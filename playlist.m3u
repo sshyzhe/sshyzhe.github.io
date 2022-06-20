@@ -425,10 +425,39 @@ http://stream.radiovan.fm/stream/index.m3u8
 https://sc.id-tv.kz/mezzo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SLUHAY.BY" tvg-logo="" group-title="YABANCI MÜZİK",SLUHAY.BY
 https://sluhay.by/live/Ch045pub/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CLUBBİNG TV" tvg-logo="" group-title="YABANCI MÜZİK",CLUBBİNG TV
-https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="" group-title="YABANCI MÜZİK",TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Ambiance" tvg-logo="" group-title="Stingray",Stingray Ambiance
+https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Greatest Hits" tvg-logo="" group-title="Stingray",Stingray Greatest Hits
+https://dai.google.com/linear/hls/event/_2NUNA_qTSyd70FTD_lqyw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Hit List" tvg-logo="" group-title="Stingray",Stingray Hit List
+https://dai.google.com/linear/hls/event/Hz2x5xc5TSaJ4NzV-AUcEg/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Classic Rock" tvg-logo="" group-title="Stingray",Stingray Classic Rock
+https://dai.google.com/linear/hls/event/vlqVJJSkQKW6IB7bQSGZ5A/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Rock Alternative" tvg-logo="" group-title="Stingray",Stingray Rock Alternative
+https://dai.google.com/linear/hls/event/k446WemXQgSbP0IsuZrM7w/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Pop Adult" tvg-logo="" group-title="Stingray",Stingray Pop Adult
+https://dai.google.com/linear/hls/event/rJ3187-VT6GIl-XUZTbX6w/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Urban Beats" tvg-logo="" group-title="Stingray",Stingray Urban Beats
+https://dai.google.com/linear/hls/event/tNflj2YMTfCWowqDM1Ej6A/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Hot Country" tvg-logo="" group-title="Stingray",Stingray Hot Country
+https://dai.google.com/linear/hls/event/SgCez41rR36rmiw8Odu8FA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Qello" tvg-logo="" group-title="Stingray",Stingray Qello
+https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Classica" tvg-logo="" group-title="Stingray",Stingray Classica
+https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Djazz" tvg-logo="" group-title="Stingray",Stingray Djazz
+https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Flashback 70s" tvg-logo="" group-title="Stingray",Stingray Flashback 70s
+https://dai.google.com/linear/hls/event/Y3O1azbASfKxO4gdleMbmQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Everything 80s" tvg-logo="" group-title="Stingray",Stingray Everything 80s
+https://dai.google.com/linear/hls/event/XiPZx9vFS8i6lgkNnprjtQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Today's Latin Pop" tvg-logo="" group-title="Stingray",Stingray Today's Latin Pop
+https://dai.google.com/linear/hls/event/M-6M5FGMRUegPLdsgkF7KA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Karaoke" tvg-logo="" group-title="Stingray",Stingray Karaoke
+https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="@@@ YABANCI @@@" tvg-logo="" group-title="YABANCI",@@@ YABANCI @@@
 https://sshyzhe.github.io/vod.m3u8
@@ -456,14 +485,36 @@ https://parh.rtrs.tv/tv/live/index.m3u8
 https://dns2.rtvbn.com:8080/live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="H1 AM" tvg-logo="" group-title="YABANCI",H1 AM
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMGA" tvg-logo="" group-title="YABANCI",AMGA
+https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USARMEN TV" tvg-logo="" group-title="YABANCI",USARMEN TV
+http://livestream.usatv.com:80/hls/m3u8/USARMENIA_NET720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="1 TV GEO" tvg-logo="" group-title="YABANCI",1 TV GEO
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KESHNET 12" tvg-logo="" group-title="YABANCI",KESHNET 12
+http://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index_2200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RESHNET 13" tvg-logo="" group-title="YABANCI",RESHNET 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RİK SAT" tvg-logo="" group-title="YABANCI",RİK SAT
-https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SİGMA TV" tvg-logo="" group-title="YABANCI",SİGMA TV
-https://sl2.sigmatv.com/hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHİNUCHİT 23" tvg-logo="" group-title="YABANCI",CHİNUCHİT 23
+http://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 24" tvg-logo="" group-title="YABANCI",CHANNEL 24
+http://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24/index_2200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KNESSET" tvg-logo="" group-title="YABANCI",KNESSET
+https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC NEWS" tvg-logo="" group-title="YABANCI",ABC NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KİRO 7" tvg-logo="" group-title="YABANCI",KİRO 7
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kiro7seattle-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX 13" tvg-logo="" group-title="YABANCI",FOX 13
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,p-KCPQ-Monetizer.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NEXT TV" tvg-logo="" group-title="YABANCI",NEXT TV
+http://stream.nexttv.com.tw/n001/hd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JP SHOP" tvg-logo="" group-title="YABANCI",JP SHOP
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARİRANG" tvg-logo="" group-title="YABANCI",ARİRANG
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS" tvg-logo="" group-title="YABANCI",CBS
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KC TV" tvg-logo="" group-title="YABANCI",KC TV
 http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JP 24" tvg-logo="" group-title="YABANCI",JP 24
@@ -472,6 +523,18 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AN TV" tvg-logo="" group-title="YABANCI",AN TV
 http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PHOENİX HONGKONG" tvg-logo="" group-title="YABANCI",PHOENİX HONGKONG
+http://210.210.155.37/uq2663/h/h157/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAİ2" tvg-logo="" group-title="YABANCI",DAİ2
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HWAZAN" tvg-logo="" group-title="YABANCI",HWAZAN
+http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOOD TV 2" tvg-logo="" group-title="YABANCI",GOOD TV 2
+https://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RİK SAT" tvg-logo="" group-title="YABANCI",RİK SAT
+https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SİGMA TV" tvg-logo="" group-title="YABANCI",SİGMA TV
+https://sl2.sigmatv.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="THE YOUNG TURKS" tvg-logo="" group-title="YABANCI",THE YOUNG TURKS
 https://tyt-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="YABANCI",CNN
@@ -479,9 +542,15 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YAHOO FİNANCE" tvg-logo="" group-title="YABANCI",YAHOO FİNANCE
 https://yahoo-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NİCK PLUTO" tvg-logo="" group-title="YABANCI",NİCK PLUTO
-https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SMİTHSONİAN CHANNEL" tvg-logo="" group-title="YABANCI",SMİTHSONİAN CHANNEL
+https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SMİTHSONİAN CHANNEL" tvg-logo="" group-title="YABANCI",SMİTHSONİAN CHANNEL US
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE US" tvg-logo="" group-title="YABANCI",LOVE NATURE US
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TV" tvg-logo="" group-title="YABANCI",ZEE TV
+http://93.152.174.144:4000/play/zee/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE ACTİONS" tvg-logo="" group-title="YABANCI",ZEE ACTİONS
+http://93.152.174.144:4000/play/zeeaction/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="@@@ MODA @@@" tvg-logo="" group-title="MODA",@@@ MODA @@@
 https://sshyzhe.github.io/vod.m3u8
@@ -489,8 +558,6 @@ https://sshyzhe.github.io/vod.m3u8
 https://fashs043.cloudycdn.services/scte/sftv_adapt/sftv_720p_chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FASHİON TV HOT" tvg-logo="" group-title="MODA",FASHİON TV HOT
 http://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A3 BİKİNİ TV" tvg-logo="" group-title="MODA",A3 BİKİNİ TV
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_540p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="@@@ SPOR @@@" tvg-logo="" group-title="SPOR",@@@ SPOR @@@
 https://sshyzhe.github.io/vod.m3u8
@@ -561,6 +628,10 @@ http://cdn.adultiptv.net/blonde.m3u8
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ASİAN" tvg-logo="" group-title="+18",ASİAN
 http://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KALOOPY" tvg-logo="" group-title="+18",KALOOPY
+https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A3 BİKİNİ" tvg-logo="" group-title="+18",A3 BİKİNİ
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MİAMİ TV" tvg-logo="" group-title="+18",MİAMİ TV
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MİAMİ TV LATİNO" tvg-logo="" group-title="+18",MİAMİ TV LATİNO
