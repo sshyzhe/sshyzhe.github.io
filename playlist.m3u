@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="@@@ ULUSAL @@@" tvg-logo="" group-title="ULUSAL",@@@ ULUSAL @@@
-https://sshyzhe.github.io/playboy.m3u8
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="ULUSAL",FOX
 https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOW TV" tvg-logo="" group-title="ULUSAL",SHOW TV
@@ -428,37 +428,6 @@ https://sluhay.by/live/Ch045pub/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="" group-title="YABANCI MÜZİK",TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Ambiance" tvg-logo="" group-title="Stingray",Stingray Ambiance
-https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Greatest Hits" tvg-logo="" group-title="Stingray",Stingray Greatest Hits
-https://dai.google.com/linear/hls/event/_2NUNA_qTSyd70FTD_lqyw/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Hit List" tvg-logo="" group-title="Stingray",Stingray Hit List
-https://dai.google.com/linear/hls/event/Hz2x5xc5TSaJ4NzV-AUcEg/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Classic Rock" tvg-logo="" group-title="Stingray",Stingray Classic Rock
-https://dai.google.com/linear/hls/event/vlqVJJSkQKW6IB7bQSGZ5A/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Rock Alternative" tvg-logo="" group-title="Stingray",Stingray Rock Alternative
-https://dai.google.com/linear/hls/event/k446WemXQgSbP0IsuZrM7w/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Pop Adult" tvg-logo="" group-title="Stingray",Stingray Pop Adult
-https://dai.google.com/linear/hls/event/rJ3187-VT6GIl-XUZTbX6w/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Urban Beats" tvg-logo="" group-title="Stingray",Stingray Urban Beats
-https://dai.google.com/linear/hls/event/tNflj2YMTfCWowqDM1Ej6A/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Hot Country" tvg-logo="" group-title="Stingray",Stingray Hot Country
-https://dai.google.com/linear/hls/event/SgCez41rR36rmiw8Odu8FA/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Qello" tvg-logo="" group-title="Stingray",Stingray Qello
-https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Classica" tvg-logo="" group-title="Stingray",Stingray Classica
-https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Djazz" tvg-logo="" group-title="Stingray",Stingray Djazz
-https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Flashback 70s" tvg-logo="" group-title="Stingray",Stingray Flashback 70s
-https://dai.google.com/linear/hls/event/Y3O1azbASfKxO4gdleMbmQ/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Everything 80s" tvg-logo="" group-title="Stingray",Stingray Everything 80s
-https://dai.google.com/linear/hls/event/XiPZx9vFS8i6lgkNnprjtQ/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Today's Latin Pop" tvg-logo="" group-title="Stingray",Stingray Today's Latin Pop
-https://dai.google.com/linear/hls/event/M-6M5FGMRUegPLdsgkF7KA/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Karaoke" tvg-logo="" group-title="Stingray",Stingray Karaoke
-https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="@@@ YABANCI @@@" tvg-logo="" group-title="YABANCI",@@@ YABANCI @@@
 https://sshyzhe.github.io/vod.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT WORLD" tvg-logo="" group-title="YABANCI",TRT WORLD
@@ -541,12 +510,12 @@ https://tyt-samsungus.amagi.tv/playlist.m3u8
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YAHOO FİNANCE" tvg-logo="" group-title="YABANCI",YAHOO FİNANCE
 https://yahoo-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NİCK PLUTO" tvg-logo="" group-title="YABANCI",NİCK PLUTO
+#EXTINF:-1 tvg-id="" tvg-name="NİCK PLUTO US" tvg-logo="" group-title="YABANCI",NİCK PLUTO US
 https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NİCKELODEON US" tvg-logo="" group-title="YABANCI",NİCKELODEON US
+https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SMİTHSONİAN CHANNEL" tvg-logo="" group-title="YABANCI",SMİTHSONİAN CHANNEL US
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE US" tvg-logo="" group-title="YABANCI",LOVE NATURE US
-https://bamus-spa-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE TV" tvg-logo="" group-title="YABANCI",ZEE TV
 http://93.152.174.144:4000/play/zee/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE ACTİONS" tvg-logo="" group-title="YABANCI",ZEE ACTİONS
@@ -628,8 +597,6 @@ http://cdn.adultiptv.net/blonde.m3u8
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ASİAN" tvg-logo="" group-title="+18",ASİAN
 http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KALOOPY" tvg-logo="" group-title="+18",KALOOPY
-https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A3 BİKİNİ" tvg-logo="" group-title="+18",A3 BİKİNİ
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MİAMİ TV" tvg-logo="" group-title="+18",MİAMİ TV
