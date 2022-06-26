@@ -77,10 +77,6 @@ https://tv.ntnhd.com:3588/multi_web/play_720.m3u8
 https://singapore-1.onestream.studio/content/hls/live/live_1234156_zixggn9d2/hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YANSİNEMA CLASSİC" tvg-logo="" group-title="ULUSAL",YANSİNEMA CLASSİC
 https://singapore-1.onestream.studio/content/hls/live/live_1234136_5yi6bkv92/hls.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TEBER STAR" tvg-logo="" group-title="ULUSAL",TEBER STAR
-https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TEBER WESTERN" tvg-logo="" group-title="ULUSAL",TEBER WESTERN
-https://live-server-2.splitstream.io/3a08cd55-6cbc-4072-8381-e7d0dc5b6d0d/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BLU TV PLAY 1" tvg-logo="" group-title="ULUSAL",BLU TV PLAY 1
 http://mn-nl.mncdn.com/blutv_play1/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BLU TV PLAY 2" tvg-logo="" group-title="ULUSAL",BLU TV PLAY 2
@@ -152,7 +148,7 @@ https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEYAZ BELGESEL" tvg-logo="" group-title="BELGESEL",BEYAZ BELGESEL
 https://beyazmedyatv.yayin.com.tr/beyazmedyatv-belgesel/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CRİ TURK" tvg-logo="" group-title="BELGESEL",CRİ TURK
-https://www.guventechnology.com:19360/criturktv/criturktv.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.guventechnology.com:19360/criturktv/criturktv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHT BELGESEL" tvg-logo="" group-title="BELGESEL",NHT BELGESEL
 https://tv.ntnhd.com:3189/multi_web/play_720.m3u8
 
@@ -402,7 +398,7 @@ http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEZZO" tvg-logo="" group-title="YABANCI MÜZİK",MEZZO
 https://sc.id-tv.kz/mezzo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="" group-title="YABANCI MÜZİK",TRACE URBAN
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+https://lightning-traceurban-samsungau.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MMC TV" tvg-logo="" group-title="YABANCI MÜZİK",MMC TV
 https://29-rtvslo-tv-mmc-int.cdn.eurovisioncdn.net/playlist.m3u8
 
@@ -483,27 +479,29 @@ https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SİGMA TV" tvg-logo="" group-title="YABANCI",SİGMA TV
 https://sl2.sigmatv.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="THE YOUNG TURKS" tvg-logo="" group-title="YABANCI",THE YOUNG TURKS
-https://tyt-samsungus.amagi.tv/playlist.m3u8
+https://tyt-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="YABANCI",CNN
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="YAHOO FİNANCE" tvg-logo="" group-title="YABANCI",YAHOO FİNANCE
-https://yahoo-samsung.amagi.tv/playlist.m3u8
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NİCK PLUTO" tvg-logo="" group-title="YABANCI",NİCK PLUTO
 https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SMİTHSONİAN CHANNEL" tvg-logo="" group-title="YABANCI",SMİTHSONİAN CHANNEL
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SMİTHSONİAN CHANNEL" tvg-logo="" group-title="YABANCI",İNSİGHT TV
+https://insighttv-samsung-us.amagi.tv/playlist720-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE TV" tvg-logo="" group-title="YABANCI",ZEE TV
 http://93.152.174.144:4000/play/zee/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE ACTİONS" tvg-logo="" group-title="YABANCI",ZEE ACTİONS
 http://93.152.174.144:4000/play/zeeaction/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ROUGE TV" tvg-logo="" group-title="YABANCI",ROUGE TV
 https://livevideo.infomaniak.com/streaming/livecast/rougetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STİNGRAY QELLO" tvg-logo="" group-title="YABANCI",STİNGRAY QELLO
+https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/4b3d888c-f64f-459d-ae9e-7d02b055b607/2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="@@@ MODA @@@" tvg-logo="" group-title="MODA",@@@ MODA @@@
 https://sshyzhe.github.io/vod.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FASHİON TV" tvg-logo="" group-title="MODA",FASHİON TV
+#EXTINF:-1 tvg-id="" tvg-name="FTV" tvg-logo="" group-title="MODA",FTV
 https://fashs043.cloudycdn.services/scte/sftv_adapt/sftv_720p_chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FASHİON TV HOT" tvg-logo="" group-title="MODA",FASHİON TV HOT
+#EXTINF:-1 tvg-id="" tvg-name="FTV HOT" tvg-logo="" group-title="MODA",FTV HOT
 http://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="@@@ SPOR @@@" tvg-logo="" group-title="SPOR",@@@ SPOR @@@
@@ -528,6 +526,10 @@ https://59c7ea6bec1c6.streamlock.net/filbox/cbcsport.stream/playlist.m3u8
 https://59c7ea6bec1c6.streamlock.net/filbox/fbtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="" group-title="SPOR",WWE
 http://93.152.174.144:4000/play/WWE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRACE SPORTS" tvg-logo="" group-title="SPOR",TRACE SPORTS
+https://lightning-tracesport-samsungau.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FTF SPORTS" tvg-logo="" group-title="SPOR",FTF SPORTS
+https://elevensports.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="@@@ +18 @@@" tvg-logo="" group-title="+18",@@@ +18 @@@
 https://sshyzhe.github.io/vod.m3u8
