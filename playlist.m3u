@@ -486,7 +486,7 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SMİTHSONİAN CHANNEL" tvg-logo="" group-title="YABANCI",SMİTHSONİAN CHANNEL
 https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SMİTHSONİAN CHANNEL" tvg-logo="" group-title="YABANCI",İNSİGHT TV
+#EXTINF:-1 tvg-id="" tvg-name="İNSİGHT TV" tvg-logo="" group-title="YABANCI",İNSİGHT TV
 https://insighttv-samsung-us.amagi.tv/playlist720-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE TV" tvg-logo="" group-title="YABANCI",ZEE TV
 http://93.152.174.144:4000/play/zee/index.m3u8
@@ -499,9 +499,9 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 
 #EXTINF:-1 tvg-id="" tvg-name="@@@ MODA @@@" tvg-logo="" group-title="MODA",@@@ MODA @@@
 https://sshyzhe.github.io/vod.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FTV" tvg-logo="" group-title="MODA",FTV
+#EXTINF:-1 tvg-id="" tvg-name="FASHİON TV" tvg-logo="" group-title="MODA",FASHİON TV
 https://fashs043.cloudycdn.services/scte/sftv_adapt/sftv_720p_chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FTV HOT" tvg-logo="" group-title="MODA",FTV HOT
+#EXTINF:-1 tvg-id="" tvg-name="FASHİON TV MİDNİGHT SECRETS" tvg-logo="" group-title="MODA",FASHİON TV MİDNİGHT SECRETS
 http://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="@@@ SPOR @@@" tvg-logo="" group-title="SPOR",@@@ SPOR @@@
