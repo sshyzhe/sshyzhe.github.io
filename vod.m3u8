@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT‑X‑DISCONTINUITY‑SEQUENCE
 https://sshyzhe.github.io/vod.mp4
+#EXT‑X‑DISCONTINUITY‑SEQUENCE
+https://archive.org/download/The_Red_Detachment_of_Women/rdow.part1.mp4
 #EXT-X-ENDLIST
