@@ -4,17 +4,17 @@ https://sshyzhe.github.io/vod.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="ULUSAL",FOX
 https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOW TV" tvg-logo="" group-title="ULUSAL",SHOW TV
-https://mn-nl.mncdn.com/blutv_showtv_dvr/live_720p2000000kbps/index.m3u8
+https://showtv.blutv.com/blutv_showtv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="" group-title="ULUSAL",ATV
 https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL D" tvg-logo="" group-title="ULUSAL",KANAL D
-https://mn-nl.mncdn.com/blutv_kanald_dvr/live_720p2000000kbps/index.m3u8
+https://kanald.blutv.com/blutv_kanald_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR" tvg-logo="" group-title="ULUSAL",STAR
-https://mn-nl.mncdn.com/blutv_startv_dvr/live_720p2000000kbps/index.m3u8
+https://startv.blutv.com/blutv_startv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEYAZ TV" tvg-logo="" group-title="ULUSAL",BEYAZ TV
-https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+https://beyaztv.blutv.com/blutv_beyaztv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL 7" tvg-logo="" group-title="ULUSAL",KANAL 7
-https://mn-nl.mncdn.com/blutv_kanal7_dvr/live_720p2000000kbps/index.m3u8
+https://kanal7.blutv.com/blutv_kanal7_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOWMAX" tvg-logo="" group-title="ULUSAL",SHOWMAX
 http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="" group-title="ULUSAL",TRT 1
@@ -27,26 +27,16 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT EU" tvg-logo="" group-title="ULUSAL",TGRT EU
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SHOW TURK" tvg-logo="" group-title="ULUSAL",SHOW TURK
-https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EURO D" tvg-logo="" group-title="ULUSAL",EURO D
-https://mn-nl.mncdn.com/blutv_eurod2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EURO STAR" tvg-logo="" group-title="ULUSAL",EURO STAR
-https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8" tvg-logo="" group-title="ULUSAL",TV 8
 https://59c7ea6bec1c6.streamlock.net/filbox/tv8.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8.5" tvg-logo="" group-title="ULUSAL",TV 8.5
 https://mn-nl.mncdn.com/blutv_tv8_52/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV8 İNT" tvg-logo="" group-title="ULUSAL",TV8 İNT
-https://mn-nl.mncdn.com/blutv_tv8_int2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KANAL 7 EU" tvg-logo="" group-title="ULUSAL",KANAL 7 EU
-https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVEM" tvg-logo="" group-title="ULUSAL",TVEM
 http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="360 TV" tvg-logo="" group-title="ULUSAL",360 TV
-http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b3128000.m3u8
+https://360tv.blutv.com/blutv_360tv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TEVE2" tvg-logo="" group-title="ULUSAL",TEVE2
-https://mn-nl.mncdn.com/blutv_teve22/live_720p2000000kbps/index.m3u8
+https://teve2.blutv.com/blutv_teve2_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CİNE 5" tvg-logo="" group-title="ULUSAL",CİNE 5
 https://host.onlineradyotv.net:8081/cine5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 6" tvg-logo="" group-title="ULUSAL",TV 6
@@ -71,16 +61,8 @@ https://beyazmedyatv.yayin.com.tr/beyazmedyatv-dizi/video.m3u8
 https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yesilcam/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CİNEMİDİ" tvg-logo="" group-title="ULUSAL",CİNEMİDİ
 https://cdn-cinemidi.yayin.com.tr/cinemidi/cinemidi/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ANKA TV" tvg-logo="" group-title="ULUSAL",ANKA TV
-http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/5592.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHT SİNEMA" tvg-logo="" group-title="ULUSAL",NHT SİNEMA
 https://tv.ntnhd.com:3588/multi_web/play_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="YANSİNEMA" tvg-logo="" group-title="ULUSAL",YANSİNEMA
-https://singapore-1.onestream.studio/content/hls/live/live_1234156_zixggn9d2/hls.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="YANSİNEMA CLASSİC" tvg-logo="" group-title="ULUSAL",YANSİNEMA CLASSİC
-https://singapore-1.onestream.studio/content/hls/live/live_1234136_5yi6bkv92/hls.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEON" tvg-logo="" group-title="ULUSAL",TELEON
-https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_digitalon_filmsmediagroup_1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BLU TV PLAY 1" tvg-logo="" group-title="ULUSAL",BLU TV PLAY 1
 http://mn-nl.mncdn.com/blutv_play1/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BLU TV PLAY 2" tvg-logo="" group-title="ULUSAL",BLU TV PLAY 2
@@ -89,8 +71,6 @@ http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
 https://2.rtmp.org/tv219/yayin.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR2" tvg-logo="" group-title="ULUSAL",TR2
 http://cdn1-tr2tv.yayin.com.tr/tr2tv/tr2tv_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TİMUR TV" tvg-logo="" group-title="ULUSAL",TİMUR TV
-https://singapore-1.onestream.studio/content/hls/live/live_1236952_ez3qobsn4/hls.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="@@@ HABERLER @@@" tvg-logo="" group-title="HABERLER",@@@ HABERLER @@@
 https://sshyzhe.github.io/vod.m3u8
@@ -105,7 +85,7 @@ https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVNET" tvg-logo="" group-title="HABERLER",TVNET
 https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 100" tvg-logo="" group-title="HABERLER",TV 100
-https://mn-nl.mncdn.com/blutv_tv1002/live_720p2000000kbps/index.m3u8
+https://tv100.blutv.com/blutv_tv100_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABERGLOBAL" tvg-logo="" group-title="HABERLER",HABERGLOBAL
 https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AKİT TV" tvg-logo="" group-title="HABERLER",AKİT TV
@@ -113,13 +93,13 @@ https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HALK TV" tvg-logo="" group-title="HABERLER",HALK TV
 https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRT" tvg-logo="" group-title="HABERLER",KRT
-https://mn-nl.mncdn.com/blutv_krt/live_720p2000000kbps/index.m3u8
+https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELE 1" tvg-logo="" group-title="HABERLER",TELE 1
-https://mn-nl.mncdn.com/blutv_tele1_dvr/live_720p2000000kbps/index.m3u8
+https://tele1.blutv.com/blutv_tele1_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ULUSAL KANAL" tvg-logo="" group-title="HABERLER",ULUSAL KANAL
 https://mn-nl.mncdn.com/blutv_ulusalkanal/smil:blutv_ulusalkanal.smil/chunklist_b2096000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN TURK" tvg-logo="" group-title="HABERLER",CNN TURK
-https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live_720p2000000kbps/index.m3u8
+https://cnnturk.blutv.com/blutv_cnnturk_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABERTURK" tvg-logo="" group-title="HABERLER",HABERTURK
 https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG HT" tvg-logo="" group-title="HABERLER",BLOOMBERG HT
@@ -300,8 +280,6 @@ https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 https://mn-nl.mncdn.com/blutv_milyontv/milyontv_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TATLISES TV" tvg-logo="" group-title="TÜRKÇE MÜZİK",TATLISES TV
 http://yerelmedya.tv:1935/tatlisestv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PALA TV" tvg-logo="" group-title="TÜRKÇE MÜZİK",PALA TV
-http://fidece38941.ozelip.com:2052/palatv/palatv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="@@@ YABANCI MÜZİK @@@" tvg-logo="" group-title="YABANCI MÜZİK",@@@ YABANCI MÜZİK @@@
 https://sshyzhe.github.io/vod.m3u8
