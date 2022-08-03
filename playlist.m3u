@@ -313,6 +313,8 @@ https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
 http://51.210.199.24/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AFN MUSİC" tvg-logo="" group-title="YABANCI MÜZİK",AFN MUSİC
 https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KAYHAN TV" tvg-logo="" group-title="YABANCI MÜZİK",KAYHAN TV
+http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARABİCA TV" tvg-logo="" group-title="YABANCI MÜZİK",ARABİCA TV
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MASTİ TV" tvg-logo="" group-title="YABANCI MÜZİK",MASTİ TV
@@ -385,6 +387,16 @@ https://sc.id-tv.kz/mezzo.m3u8
 https://lightning-traceurban-samsungau.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MMC TV" tvg-logo="" group-title="YABANCI MÜZİK",MMC TV
 https://29-rtvslo-tv-mmc-int.cdn.eurovisioncdn.net/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV YO" tvg-logo="" group-title="YABANCI MÜZİK",MTV YO
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV BİGGEST POP" tvg-logo="" group-title="YABANCI MÜZİK",MTV BİGGEST POP
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MİAW PLUTO" tvg-logo="" group-title="YABANCI MÜZİK",MİAW PLUTO
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master_2400.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV SPANKİNG NEW" tvg-logo="" group-title="YABANCI MÜZİK",MTV SPANKİNG NEW
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master_2400.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CMT MUSİC" tvg-logo="" group-title="YABANCI MÜZİK",CMT MUSİC
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master_2400.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="@@@ YABANCI @@@" tvg-logo="" group-title="YABANCI",@@@ YABANCI @@@
 https://sshyzhe.github.io/vod.m3u8
