@@ -1,4 +1,4 @@
-#EXTM3U
+﻿#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="@@@ ULUSAL @@@" tvg-logo="" group-title="ULUSAL",@@@ ULUSAL @@@
 https://sshyzhe.github.io/vod.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="ULUSAL",FOX
@@ -621,3 +621,24 @@ http://193.33.240.8/hustler_hd/index.m3u8
 http://93.152.174.144:4000/play/pinkotv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="İBİZA HD" tvg-logo="" group-title="+18",İBİZA HD
 https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="köylü kızım evden kaçtı" tvg-logo="" group-title="+18",köylü kızım evden kaçtı
+https://ia802503.us.archive.org/12/items/koylu-kizim-evden-kacti-2004/35ad1d5468b1feaf528b156cab9064ff.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="[VOD]" tvg-logo="" group-title="VOD",[VOD]
+https://sshyzhe.github.io/vod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="THE GREEN MİLE" tvg-logo="" group-title="VOD",THE GREEN MİLE
+https://ia601409.us.archive.org/13/items/yesil-yol/Yeşil%20Yol.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CYBORG" tvg-logo="" group-title="VOD",CYBORG
+https://ia601401.us.archive.org/30/items/cyborg_202209/Cyborg.mp4
+#EXTINF:-1 tvg-id="" tvg-name="V FOR VENDETTA" tvg-logo="" group-title="VOD",V FOR VENDETTA
+https://ia601501.us.archive.org/22/items/v-for-vendetta/V%20for%20Vendetta.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PREDATOR" tvg-logo="" group-title="VOD",PREDATOR
+https://ia601506.us.archive.org/20/items/predator_202209/Predator.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PREDATOR 2" tvg-logo="" group-title="VOD",PREDATOR 2
+https://ia601503.us.archive.org/9/items/predator-2/Predator%202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FULL METAL JACKET" tvg-logo="" group-title="VOD",FULL METAL JACKET
+https://ia601400.us.archive.org/10/items/full-metal-jacket/Full%20Metal%20Jacket.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LEON" tvg-logo="" group-title="VOD",LEON
+https://ia601403.us.archive.org/5/items/leon_20220918/Leon.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EYES WİDE SHUT" tvg-logo="" group-title="VOD",EYES WİDE SHUT
+https://ia601405.us.archive.org/3/items/eyes-wide-shut/Eyes%20Wide%20Shut.mp4
