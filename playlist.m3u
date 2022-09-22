@@ -593,8 +593,6 @@ https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VİSİT X" tvg-logo="" group-title="+18",VİSİT X
 http://stream.visit-x.tv:1935/vxtv/live_720p/chunklist_w1466164974.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BABESTATION" tvg-logo="" group-title="+18",BABESTATION
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/26412812337_2205_19378video_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AST TV 1" tvg-logo="" group-title="+18",AST TV 1
 https://www.ast.tv/stream/1/ultra.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AST TV 2" tvg-logo="" group-title="+18",AST TV 2
@@ -603,30 +601,12 @@ https://www.ast.tv/stream/2/ultra.m3u8
 http://46.174.83.66/Russkaya_Noch/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="REDLİGHT HD" tvg-logo="" group-title="+18",REDLİGHT HD
 http://93.152.174.144:4000/play/privatetv1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PİNK 1" tvg-logo="" group-title="+18",PİNK 1
-http://54.36.123.36:8080/PinkErotic1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PİNK 2" tvg-logo="" group-title="+18",PİNK 2
-http://54.36.123.36:8080/PinkErotic2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PİNK 3" tvg-logo="" group-title="+18",PİNK 3
-http://54.36.123.36:8080/PinkErotic3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PİNK 4" tvg-logo="" group-title="+18",PİNK 4
-http://54.36.123.36:8080/PinkErotic4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PİNK 5" tvg-logo="" group-title="+18",PİNK 5
-http://54.36.123.36:8080/PinkErotic5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PİNK 6" tvg-logo="" group-title="+18",PİNK 6
-http://54.36.123.36:8080/PinkErotic6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PİNK 7" tvg-logo="" group-title="+18",PİNK 7
-http://54.36.123.36:8080/PinkErotic7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PİNK 8" tvg-logo="" group-title="+18",PİNK 8
-http://54.36.123.36:8080/PinkErotic8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HUSTLER HD" tvg-logo="" group-title="+18",HUSTLER HD
 http://193.33.240.8/hustler_hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PİNKO" tvg-logo="" group-title="+18",PİNKO
 http://93.152.174.144:4000/play/pinkotv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="İBİZA HD" tvg-logo="" group-title="+18",İBİZA HD
 https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="köylü kızım evden kaçtı" tvg-logo="" group-title="+18",köylü kızım evden kaçtı
-https://ia802503.us.archive.org/12/items/koylu-kizim-evden-kacti-2004/35ad1d5468b1feaf528b156cab9064ff.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="[VOD]" tvg-logo="" group-title="VOD",[VOD]
 https://sshyzhe.github.io/vod.m3u8
@@ -640,7 +620,7 @@ https://ia601501.us.archive.org/22/items/v-for-vendetta/V%20for%20Vendetta.mp4
 https://ia601506.us.archive.org/20/items/predator_202209/Predator.mp4
 #EXTINF:-1 tvg-id="" tvg-name="PREDATOR 2" tvg-logo="" group-title="VOD",PREDATOR 2
 https://ia601503.us.archive.org/9/items/predator-2/Predator%202.mp4
-#EXTINF:-1 tvg-id="" tvg-name="LEON" tvg-logo="" group-title="VOD",LEON
+#EXTINF:-1 tvg-id="" tvg-name="Sevginin Gücü Leon" tvg-logo="" group-title="VOD",Sevginin Gücü Leon
 https://archive.org/download/ln_20220922/ln.mp4
-#EXTINF:-1 tvg-id="" tvg-name="EYES WİDE SHUT" tvg-logo="" group-title="VOD",EYES WİDE SHUT
-https://store1.gofile.io/download/a785fd46-b4d0-42dc-8404-618769f70550/et.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gözleri Tamamen Kapalı" tvg-logo="" group-title="VOD",Gözleri Tamamen Kapalı
+https://archive.org/download/et_20220922/et.mp4
