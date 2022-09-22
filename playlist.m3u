@@ -610,17 +610,19 @@ https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="[VOD]" tvg-logo="" group-title="VOD",[VOD]
 https://sshyzhe.github.io/vod.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="THE GREEN MİLE" tvg-logo="" group-title="VOD",THE GREEN MİLE
-https://ia601409.us.archive.org/13/items/yesil-yol/Yeşil%20Yol.mp4
-#EXTINF:-1 tvg-id="" tvg-name="CYBORG" tvg-logo="" group-title="VOD",CYBORG
-https://ia601401.us.archive.org/30/items/cyborg_202209/Cyborg.mp4
-#EXTINF:-1 tvg-id="" tvg-name="V FOR VENDETTA" tvg-logo="" group-title="VOD",V FOR VENDETTA
-https://ia601501.us.archive.org/22/items/v-for-vendetta/V%20for%20Vendetta.mp4
-#EXTINF:-1 tvg-id="" tvg-name="PREDATOR" tvg-logo="" group-title="VOD",PREDATOR
-https://ia601506.us.archive.org/20/items/predator_202209/Predator.mp4
-#EXTINF:-1 tvg-id="" tvg-name="PREDATOR 2" tvg-logo="" group-title="VOD",PREDATOR 2
-https://ia601503.us.archive.org/9/items/predator-2/Predator%202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yeşil Yol" tvg-logo="" group-title="VOD",Yeşil Yol
+https://sshyzhe.github.io/vod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Esaretin Bedeli" tvg-logo="" group-title="VOD",Esaretin Bedeli
+https://sshyzhe.github.io/vod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cyborg" tvg-logo="" group-title="VOD",Cyborg
+https://archive.org/download/cg_20220922/cg.mp4
+#EXTINF:-1 tvg-id="" tvg-name="V For Vendetta" tvg-logo="" group-title="VOD",V For Vendetta
+https://sshyzhe.github.io/vod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Predator" tvg-logo="" group-title="VOD",Predator
+https://sshyzhe.github.io/vod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Predator 2" tvg-logo="" group-title="VOD",Predator 2
+https://sshyzhe.github.io/vod.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sevginin Gücü Leon" tvg-logo="" group-title="VOD",Sevginin Gücü Leon
 https://archive.org/download/ln_20220922/ln.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gözleri Tamamen Kapalı" tvg-logo="" group-title="VOD",Gözleri Tamamen Kapalı
+#EXTINF:-1 tvg-id="" tvg-name="Gözlerim Tamamen Kapalı" tvg-logo="" group-title="VOD",Gözlerim Tamamen Kapalı
 https://archive.org/download/et_20220922/et.mp4
