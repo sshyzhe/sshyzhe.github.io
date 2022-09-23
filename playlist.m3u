@@ -611,9 +611,9 @@ https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[VOD]" tvg-logo="" group-title="VOD",[VOD]
 https://sshyzhe.github.io/vod.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Yeşil Yol" tvg-logo="" group-title="VOD",Yeşil Yol
-?
+https://archive.org/download/te_20220923/te.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Esaretin Bedeli" tvg-logo="" group-title="VOD",Esaretin Bedeli
-?
+https://archive.org/download/sn_20220923/sn.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Cyborg" tvg-logo="" group-title="VOD",Cyborg
 https://archive.org/download/cg_20220923/cg.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sevginin Gücü Adına Leon" tvg-logo="" group-title="VOD",Sevginin Gücü Adına Leon
