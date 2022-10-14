@@ -120,7 +120,7 @@ https://mn-nl.mncdn.com/blutv_tgrthaber2/live_720p2000000kbps/index.m3u8
 https://mn-nl.mncdn.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="@@@ BELGESEL @@@" tvg-logo="" group-title="BELGESEL",@@@ BELGESEL @@@
-https://sshyzhe.github.io/vod.m3u8
+https://sshyzhe.github.io/vod.m3u
 #EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="BELGESEL",TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="" group-title="BELGESEL",DMAX
@@ -261,8 +261,7 @@ https://sshyzhe.github.io/vod.m3u
 #EXTINF:-1 tvg-id="" tvg-name="POWER TURK" tvg-logo="" group-title="TÜRKÇE MÜZİK",POWER TURK
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b1428000_sltur.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="POWER TÜRK SLOW" tvg-logo="" group-title="TÜRKÇE MÜZİK",POWER TÜRK SLOW
-https://listen.powerapp.com.tr/pturkslow/slow.smil/
-chunklist_b1628000_sltur.m3u8
+https://listen.powerapp.com.tr/pturkslow/slow.smil/chunklist_b1628000_sltur.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="POWER TV" tvg-logo="" group-title="TÜRKÇE MÜZİK",POWER TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b1428000_sltur.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="POWER DANCE" tvg-logo="" group-title="TÜRKÇE MÜZİK",POWER DANCE
@@ -270,8 +269,7 @@ https://listen.powerapp.com.tr/dance/dance.smil/chunklist_b1628000_sltur.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="POWER LOVE" tvg-logo="" group-title="TÜRKÇE MÜZİK",POWER LOVE
 https://listen.powerapp.com.tr/plove/love.smil/chunklist_b1628000_sltur.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="POWER PLUS" tvg-logo="" group-title="TÜRKÇE MÜZİK",POWER PLUS
-https://livetv.powerapp.com.tr/pplustv/pplustv.smil/
-chunklist_b1628000_sltur.m3u8
+https://livetv.powerapp.com.tr/pplustv/pplustv.smil/chunklist_b1628000_sltur.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT MÜZİK" tvg-logo="" group-title="TÜRKÇE MÜZİK",TRT MÜZİK
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DREAM TÜRK" tvg-logo="" group-title="TÜRKÇE MÜZİK",DREAM TÜRK
