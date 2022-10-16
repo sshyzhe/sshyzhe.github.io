@@ -642,6 +642,10 @@ https://archive.org/download/kl1_20220923/kl1.mp4
 https://archive.org/download/kl1_20220923/kl2.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Otomatik Portakal" tvg-logo="" group-title="VOD",Otomatik Portakal
 https://archive.org/download/ae_20220923/ae.mp4
+#EXTINF:-1 tvg-id="" tvg-name="İyi Kötü Ve Çirkin" tvg-logo="" group-title="VOD",İyi Kötü Ve Çirkin
+xxxxx
+#EXTINF:-1 tvg-id="" tvg-name="Gerçeğe Çağrı" tvg-logo="" group-title="VOD",Gerçeğe Çağrı
+xxxxx
 #EXTINF:-1 tvg-id="" tvg-name="Guguk Kuşu" tvg-logo="" group-title="VOD",Guguk Kuşu
 https://archive.org/download/ot_20220923/ot.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Maske" tvg-logo="" group-title="VOD",Maske
@@ -660,25 +664,27 @@ https://archive.org/download/ro_20221013/ro3.mp4
 https://archive.org/download/ro_20221013/ro4.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rambo 5" tvg-logo="" group-title="VOD",Rambo 5
 https://archive.org/download/ro_20221013/ro5.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Maymunlar Gezegeni 1" tvg-logo="" group-title="VOD",Maymunlar Gezegeni 1
+#EXTINF:-1 tvg-id="" tvg-name="Maymunlar Cehennemi 1" tvg-logo="" group-title="VOD",Maymunlar Cehennemi 1
 xxxxx
-#EXTINF:-1 tvg-id="" tvg-name="Maymunlar Gezegeni 2 Dönüş" tvg-logo="" group-title="VOD",Maymunlar Gezegeni 2 Dönüş
+#EXTINF:-1 tvg-id="" tvg-name="Maymunlar Cehennemi 2 Dönüş" tvg-logo="" group-title="VOD",Maymunlar Cehennemi 2 Dönüş
 xxxxx
-#EXTINF:-1 tvg-id="" tvg-name="Maymunlar Gezegeni 3 Kaçış" tvg-logo="" group-title="VOD",Maymunlar Gezegeni 3 Kaçış
+#EXTINF:-1 tvg-id="" tvg-name="Maymunlar Cehennemi 3 Kaçış" tvg-logo="" group-title="VOD",Maymunlar Cehennemi 3 Kaçış
 xxxxx
-#EXTINF:-1 tvg-id="" tvg-name="Maymunlar Gezegeni 4 İsyan" tvg-logo="" group-title="VOD",Maymunlar Gezegeni 4 İsyan
+#EXTINF:-1 tvg-id="" tvg-name="Maymunlar Cehennemi 4 İsyan" tvg-logo="" group-title="VOD",Maymunlar Cehennemi 4 İsyan
 xxxxx
-#EXTINF:-1 tvg-id="" tvg-name="Maymunlar Gezegeni 5 Savaş" tvg-logo="" group-title="VOD",Maymunlar Gezegeni 5 Savaş
+#EXTINF:-1 tvg-id="" tvg-name="Maymunlar Cehennemi 5 Savaş" tvg-logo="" group-title="VOD",Maymunlar Cehennemi Savaş
 xxxxx
-#EXTINF:-1 tvg-id="" tvg-name="Terminatör 1" tvg-logo="" group-title="VOD",Terminatör 1
+#EXTINF:-1 tvg-id="" tvg-name="Terminatör 1 Yokedici" tvg-logo="" group-title="VOD",Terminatör 1 Yokedici
 xxxxx
-#EXTINF:-1 tvg-id="" tvg-name="Terminatör 2" tvg-logo="" group-title="VOD",Terminatör 2
+#EXTINF:-1 tvg-id="" tvg-name="Terminatör 2 Mahşer Günü" tvg-logo="" group-title="VOD",Terminatör 2 Mahşer Günü
 xxxxx
-#EXTINF:-1 tvg-id="" tvg-name="Terminatör 3" tvg-logo="" group-title="VOD",Terminatör 3
+#EXTINF:-1 tvg-id="" tvg-name="Terminatör 3 Makinelerin Yükselişi" tvg-logo="" group-title="VOD",Terminatör 3 Makinelerin Yükselişi
 xxxxx
-#EXTINF:-1 tvg-id="" tvg-name="Terminatör 4" tvg-logo="" group-title="VOD",Terminatör 4
+#EXTINF:-1 tvg-id="" tvg-name="Terminatör 4 Kurtuluş" tvg-logo="" group-title="VOD",Terminatör 4 Kurtuluş
 xxxxx
-#EXTINF:-1 tvg-id="" tvg-name="Terminatör 5" tvg-logo="" group-title="VOD",Terminatör 5
+#EXTINF:-1 tvg-id="" tvg-name="Terminator 5 Genisys" tvg-logo="" group-title="VOD",Terminator 5 Genisys
+xxxxx
+#EXTINF:-1 tvg-id="" tvg-name="Terminatör 6 Kara Kader" tvg-logo="" group-title="VOD",Terminatör 6 Kara Kader
 xxxxx
 #EXTINF:-1 tvg-id="" tvg-name="RoboCop 1" tvg-logo="" group-title="VOD",RoboCop 1
 xxxxx
@@ -687,4 +693,30 @@ xxxxx
 #EXTINF:-1 tvg-id="" tvg-name="RoboCop 3" tvg-logo="" group-title="VOD",RoboCop 3
 xxxxx
 #EXTINF:-1 tvg-id="" tvg-name="RoboCop 4" tvg-logo="" group-title="VOD",RoboCop 4
+xxxxx
+#EXTINF:-1 tvg-id="" tvg-name="Turist Ömer Uzay Yolunda" tvg-logo="" group-title="VOD",Turist Ömer Uzay Yolunda
+xxxxx
+#EXTINF:-1 tvg-id="" tvg-name="Uzay Yolu 1 Uzay Macerası" tvg-logo="" group-title="VOD",Uzay Yolu 1 Uzay Macerası
+xxxxx
+#EXTINF:-1 tvg-id="" tvg-name="Uzay Yolu 2 Khan'ın Gazabı" tvg-logo="" group-title="VOD",Uzay Yolu 2 Khan'ın Gazabı
+xxxxx
+#EXTINF:-1 tvg-id="" tvg-name="Uzay Yolu 3 Spock'un Peşinde" tvg-logo="" group-title="VOD",Uzay Yolu 3 Spock'un Peşinde
+xxxxx
+#EXTINF:-1 tvg-id="" tvg-name="Uzay Yolu 4 Eve Yolculuk" tvg-logo="" group-title="VOD",Uzay Yolu 4 Eve Yolculuk
+xxxxx
+#EXTINF:-1 tvg-id="" tvg-name="Uzay Yolu 5 Son Sınır" tvg-logo="" group-title="VOD",Uzay Yolu 5 Son Sınır
+xxxxx
+#EXTINF:-1 tvg-id="" tvg-name="Uzay Yolu 6 Keşfedilmemiş Ülke" tvg-logo="" group-title="VOD",Uzay Yolu 6 Keşfedilmemiş Ülke
+xxxxx
+#EXTINF:-1 tvg-id="" tvg-name="Uzay Yolu 7 Yeni Nesil" tvg-logo="" group-title="VOD",Uzay Yolu 7 Yeni Nesil
+xxxxx
+#EXTINF:-1 tvg-id="" tvg-name="Uzay Yolu 8 İlk Temas" tvg-logo="" group-title="VOD",Uzay Yolu 8 İlk Temas
+xxxxx
+#EXTINF:-1 tvg-id="" tvg-name="Uzay Yolu 9 İsyan" tvg-logo="" group-title="VOD",Uzay Yolu 9 İsyan
+xxxxx
+#EXTINF:-1 tvg-id="" tvg-name="Uzay Yolu 10 Nemesis" tvg-logo="" group-title="VOD",Uzay Yolu 10 Nemesis
+xxxxx
+#EXTINF:-1 tvg-id="" tvg-name="Uzay Yolu 11 Gelecek Başlıyor" tvg-logo="" group-title="VOD",Uzay Yolu 11 Gelecek Başlıyor
+xxxxx
+#EXTINF:-1 tvg-id="" tvg-name="Uzay Yolu 12 Bilinmeze Doğru" tvg-logo="" group-title="VOD",Uzay Yolu 12 Bilinmeze Doğru
 xxxxx
