@@ -514,7 +514,7 @@ https://sshyzhe.github.io/vod.m3u
 #EXTINF:-1 tvg-id="" tvg-name="FASHİON TV" tvg-logo="" group-title="MODA",FASHİON TV
 https://fashs043.cloudycdn.services/scte/sftv_adapt/sftv_720p_chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FASHİON TV MİDNİGHT SECRETS" tvg-logo="" group-title="MODA",FASHİON TV MİDNİGHT SECRETS
-http://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2678000_t64NzIwcA==.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="@@@ SPOR @@@" tvg-logo="" group-title="SPOR",@@@ SPOR @@@
 https://sshyzhe.github.io/vod.m3u
