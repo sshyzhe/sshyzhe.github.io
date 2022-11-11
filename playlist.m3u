@@ -289,7 +289,9 @@ http://yerelmedya.tv:1935/tatlisestv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SLOW KARADENİZ TV" tvg-logo="" group-title="TÜRKÇE MÜZİK",SLOW KARADENİZ TV
 https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SLOW KARADENİZ FM" tvg-logo="" group-title="TÜRKÇE MÜZİK",SLOW KARADENİZ FM
-https://dinle.slowkaradenizfm.com/9578/listen.m3u8
+https://dinle.slowkaradenizfm.com:9578/listen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RİZE TÜRK TV" tvg-logo="" group-title="TÜRKÇE MÜZİK",RİZE TÜRK TV
+https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KARADENİZ TÜRK FM" tvg-logo="" group-title="TÜRKÇE MÜZİK",KARADENİZ TÜRK FM
 https://radyo.yayin.com.tr:6134/listen.m3u8
 
