@@ -622,6 +622,8 @@ https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="[VOD]" tvg-logo="" group-title="VOD",[VOD]
 https://sshyzhe.github.io/vod.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Zorro" tvg-logo="" group-title="VOD",Zorro
+https://archive.org/download/z1_20221106/z1.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Yeşil Yol" tvg-logo="" group-title="VOD",Yeşil Yol
 https://archive.org/download/te_20220923/te.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Esaretin Bedeli" tvg-logo="" group-title="VOD",Esaretin Bedeli
@@ -723,27 +725,18 @@ https://archive.org/download/dsd_20221117/fn4.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Son Durak 5" tvg-logo="" group-title="VOD",Son Durak 5
 https://archive.org/download/dsd_20221117/fn5.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Cadıca Sevmek" tvg-logo="" group-title="VOD",Cadıca Sevmek
-https://archive.org/download/uu_20221016/ue.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cadıca Sevmek" tvg-logo="" group-title="VOD",Manken
-https://archive.org/download/uu_20221016/mn.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cadıca Sevmek" tvg-logo="" group-title="VOD",şirket
-https://archive.org/download/uu_20221016/tm.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Cadıca Sevmek" tvg-logo="" group-title="VOD",vanilla sky
-https://archive.org/download/uu_20221016/vy.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Cadıca Sevmek" tvg-logo="" group-title="VOD",gece ve gündüz
-https://archive.org/download/uu_20221016/ky.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Cadıca Sevmek" tvg-logo="" group-title="VOD",yağmur adam
-https://archive.org/download/uu_20221016/rn.mp4
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Cadıca Sevmek" tvg-logo="" group-title="VOD",Yıldırım Günleri
-https://archive.org/download/uu_20221016/dr.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Cadıca Sevmek" tvg-logo="" group-title="VOD",Yıldırım Günleri
-https://archive.org/download/uu_20221016/dr.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Cadıca Sevmek" tvg-logo="" group-title="VOD",çılgın konuklar
-https://archive.org/download/uu_20221016/jg.mp4
+https://archive.org/download/dsd_20221117/ue.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manken" tvg-logo="" group-title="VOD",Manken
+https://archive.org/download/dsd_20221117/mn.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Şirket" tvg-logo="" group-title="VOD",Şirket
+https://archive.org/download/dsd_20221117/tm.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vanilla Sky" tvg-logo="" group-title="VOD",Vanilla Sky
+https://archive.org/download/dsd_20221117/vy.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gece Ve Gündüz" tvg-logo="" group-title="VOD",Gece Ve Gündüz
+https://archive.org/download/dsd_20221117/ky.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yağmur Adam" tvg-logo="" group-title="VOD",Yağmur Adam
+https://archive.org/download/dsd_20221117/rn.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yıldırım Günleri" tvg-logo="" group-title="VOD",Yıldırım Günleri
+https://archive.org/download/dsd_20221117/dr.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Çılgın Konuklar" tvg-logo="" group-title="VOD",Çılgın Konuklar
+https://archive.org/download/dsd_20221117/jg.mp4
