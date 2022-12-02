@@ -788,3 +788,9 @@ https://archive.org/download/hyd_20221124/te.mp4
 https://archive.org/download/hyd_20221124/rt.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Durdurulamaz" tvg-logo="" group-title="VOD",Durdurulamaz
 https://archive.org/download/ue_20221124/ue.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Geleceğe Dönüş 1" tvg-logo="" group-title="VOD",Geleceğe Dönüş 1
+https://archive.org/download/gd_20221201/1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Geleceğe Dönüş 2" tvg-logo="" group-title="VOD",Geleceğe Dönüş 2
+https://archive.org/download/gd_20221201/2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Geleceğe Dönüş 3" tvg-logo="" group-title="VOD",Geleceğe Dönüş 3
+https://archive.org/download/gd_20221201/3.mp4
