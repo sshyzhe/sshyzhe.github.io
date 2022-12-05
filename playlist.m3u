@@ -16,7 +16,7 @@ https://beyaztv.blutv.com/blutv_beyaztv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL 7" tvg-logo="" group-title="ULUSAL",KANAL 7
 https://kanal7.blutv.com/blutv_kanal7_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOWMAX" tvg-logo="" group-title="ULUSAL",SHOWMAX
-http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=http://showmax.com.tr/canliyayin
 #EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="" group-title="ULUSAL",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT 2" tvg-logo="" group-title="ULUSAL",TRT 2
@@ -39,8 +39,6 @@ https://360tv.blutv.com/blutv_360tv_live/live_720p2000000kbps/index.m3u8
 https://teve2.blutv.com/blutv_teve2_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 6" tvg-logo="" group-title="ULUSAL",TV 6
 http://yerelmedya.tv:1935/tivi6/bant1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UÇANKUŞ TV" tvg-logo="" group-title="ULUSAL",UÇANKUŞ TV
-https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AKILLI TV" tvg-logo="" group-title="ULUSAL",AKILLI TV
 http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BİZİM EV TV" tvg-logo="" group-title="ULUSAL",BİZİM EV TV
