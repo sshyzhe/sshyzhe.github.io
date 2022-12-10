@@ -658,14 +658,6 @@ https://archive.org/download/ro_20221013/ro3.mp4
 https://archive.org/download/ro_20221013/ro4.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rambo 5" tvg-logo="" group-title="VOD",Rambo 5
 https://archive.org/download/ro_20221013/ro5.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rocky 1" tvg-logo="" group-title="VOD",Rocky 1
-https://archive.org/download/rocky-iii-rocky-iii-turkce-dublaj-1080p-full-hd-izle/Rocky%20Balboa%20%28Rocky%20Balboa%29%20T%C3%BCrk%C3%A7e%20dublaj%201080p%20Full%20HD%20izle.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rocky 2" tvg-logo="" group-title="VOD",Rocky 2
-https://archive.org/download/rocky-iii-rocky-iii-turkce-dublaj-1080p-full-hd-izle/Rocky%20II%20%28Rocky%20II%29%20T%C3%BCrk%C3%A7e%20dublaj%201080p%20Full%20HD%20izle.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rocky 3" tvg-logo="" group-title="VOD",Rocky 3
-https://archive.org/download/rocky-iii-rocky-iii-turkce-dublaj-1080p-full-hd-izle/Rocky%20III%20%28Rocky%20III%29%20T%C3%BCrk%C3%A7e%20dublaj%201080p%20Full%20HD%20izle.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rocky 4" tvg-logo="" group-title="VOD",Rocky 4
-https://archive.org/download/rocky-iii-rocky-iii-turkce-dublaj-1080p-full-hd-izle/Rocky%20V%20%28Rocky%20V%29%20T%C3%BCrk%C3%A7e%20dublaj%201080p%20Full%20HD%20izle.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Maymunlar Cehennemi 1" tvg-logo="" group-title="VOD",Maymunlar Cehennemi 1
 https://archive.org/download/mi1_20221017/mi1.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Maymunlar Cehennemi 2 Dönüş" tvg-logo="" group-title="VOD",Maymunlar Cehennemi 2 Dönüş
@@ -793,4 +785,6 @@ https://archive.org/download/gd_20221201/2.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Geleceğe Dönüş 3" tvg-logo="" group-title="VOD",Geleceğe Dönüş 3
 https://archive.org/download/gd_20221201/3.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Harikasın Melanie" tvg-logo="" group-title="VOD",Harikasın Melanie 
-https://sshyzhe.github.io/vod.m3u
+https://archive.org/download/he_20221210/he.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Herkesin Kadını" tvg-logo="" group-title="VOD",Herkesin Kadını
+https://archive.org/download/ui_20221210/ui.mp4
