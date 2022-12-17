@@ -612,6 +612,10 @@ https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="[VOD]" tvg-logo="" group-title="VOD",[VOD]
 https://sshyzhe.github.io/vod.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Sevginin Gücü Adına Leon" tvg-logo="" group-title="VOD",Sevginin Gücü Adına Leon
+https://archive.org/download/ln_20220923/ln.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Geçmişin Günahları" tvg-logo="" group-title="VOD",Geçmişin Günahları
+https://archive.org/download/cb_20221217/cb.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Zorro" tvg-logo="" group-title="VOD",Zorro
 https://archive.org/download/z1_20221106/z1.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Yeşil Yol" tvg-logo="" group-title="VOD",Yeşil Yol
@@ -620,8 +624,6 @@ https://archive.org/download/te_20220923/te.mp4
 https://archive.org/download/sn_20220926/sn.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Cyborg" tvg-logo="" group-title="VOD",Cyborg
 https://archive.org/download/cg_20220923/cg.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sevginin Gücü Adına Leon" tvg-logo="" group-title="VOD",Sevginin Gücü Adına Leon
-https://archive.org/download/ln_20220923/ln.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gözlerim Tamamen Kapalı" tvg-logo="" group-title="VOD",Gözlerim Tamamen Kapalı
 https://archive.org/download/et_20220926/et.mp4
 #EXTINF:-1 tvg-id="" tvg-name="V For Vendetta" tvg-logo="" group-title="VOD",V For Vendetta
@@ -804,8 +806,6 @@ https://archive.org/download/fatal-temptation-1988-turkce-dublaj/Fatal%20Temptat
 https://archive.org/download/the-american-angels-baptism-of-blood-1990-turkce-dublaj/The%20American%20Angels-%20Baptism%20of%20Blood%20%281990%29%20T%C3%BCrk%C3%A7e%20Dublaj.ia.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Amelie" tvg-logo="" group-title="VOD",Amelie
 https://archive.org/download/amelie-2001-digiturk-dvd-dublaji/Amelie%20%282001%29%20Digiturk-DVD%20Dublaj%C4%B1.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Geçmişin Günahları" tvg-logo="" group-title="VOD",Geçmişin Günahları
-https://archive.org/download/cb_20221217/cb.mp4
 #EXTINF:-1 tvg-id="" tvg-name="War (2007)" tvg-logo="" group-title="VOD",War (2007)
 https://archive.org/download/war-2007-dvd-dublaji/War%20%282007%29%20DVD%20Dublaj%C4%B1.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Departed (2006)" tvg-logo="" group-title="VOD",The Departed (2006)
