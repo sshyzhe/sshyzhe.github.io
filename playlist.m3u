@@ -6,7 +6,7 @@ https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOW TV" tvg-logo="" group-title="ULUSAL",SHOW TV
 https://showtv.blutv.com/blutv_showtv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="" group-title="ULUSAL",ATV
-https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
+http://195.142.1.211:4002/udp/224.2.2.19:10001
 #EXTINF:-1 tvg-id="" tvg-name="KANAL D" tvg-logo="" group-title="ULUSAL",KANAL D
 https://kanald.blutv.com/blutv_kanald_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR" tvg-logo="" group-title="ULUSAL",STAR
@@ -28,7 +28,7 @@ https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT EU" tvg-logo="" group-title="ULUSAL",TGRT EU
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8" tvg-logo="" group-title="ULUSAL",TV 8
-https://59c7ea6bec1c6.streamlock.net/filbox/tv8.stream/playlist.m3u8
+https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8.5" tvg-logo="" group-title="ULUSAL",TV 8.5
 https://tv85.blutv.com/blutv_tv8_5_live/live_720p2000000kbps/index.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="TVEM" tvg-logo="" group-title="ULUSAL",TVEM
@@ -77,7 +77,7 @@ https://sshyzhe.github.io/vod.m3u
 #EXTINF:-1 tvg-id="" tvg-name="FLASH TV" tvg-logo="" group-title="HABERLER",FLASH TV
 https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A HABER" tvg-logo="" group-title="HABERLER",A HABER
-https://59c7ea6bec1c6.streamlock.net/filbox/ahaber.stream/playlist.m3u8
+http://213.172.73.133:8081/nimble_live/9076_A_Haber_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BENGÜTÜRK" tvg-logo="" group-title="HABERLER",BENGÜTÜRK
 https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24" tvg-logo="" group-title="HABERLER",24
@@ -107,7 +107,7 @@ https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" group-title="HABERLER",NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TASC TV" tvg-logo="" group-title="HABERLER",TASC TV
-http://stream.tasc.tv:5080/WebRTCApp/streams/524722660612178507728771.m3u8
+https://live.tasc.tv:5443/LiveApp/streams/996700068960085406468141.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CORONA TV" tvg-logo="" group-title="HABERLER",CORONA TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=O4b-cNfoYfA
 #EXTINF:-1 tvg-id="" tvg-name="TRT HABER" tvg-logo="" group-title="HABERLER",TRT HABER
@@ -526,16 +526,8 @@ https://trkvz-live.daioncdn.net/aspor/aspor_720p.m3u8
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR YILDIZ" tvg-logo="" group-title="SPOR",TRT SPOR YILDIZ
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEİNSPORTS HABER" tvg-logo="" group-title="SPOR",BEİNSPORTS HABER
-https://59c7ea6bec1c6.streamlock.net/filbox/beinsporthaber.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BRİC&SATRANÇ TV" tvg-logo="" group-title="SPOR",BRİC&SATRANÇ TV
 http://139.162.182.79/live/test/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="İCTİMAİ TV" tvg-logo="" group-title="SPOR",İCTİMAİ TV
-https://59c7ea6bec1c6.streamlock.net/filbox/ictimaitv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBC SPOR" tvg-logo="" group-title="SPOR",CBC SPOR
-https://59c7ea6bec1c6.streamlock.net/filbox/cbcsport.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FB TV" tvg-logo="" group-title="SPOR",FB TV
-https://59c7ea6bec1c6.streamlock.net/filbox/fbtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRACE SPORTS" tvg-logo="" group-title="SPOR",TRACE SPORTS
 https://lightning-tracesport-samsungau.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FTF SPORTS" tvg-logo="" group-title="SPOR",FTF SPORTS
