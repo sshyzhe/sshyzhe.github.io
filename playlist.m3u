@@ -69,9 +69,10 @@ http://mn-nl.mncdn.com/blutv_play1/live_720p2000000kbps/index.m3u8
 http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SANCAK TV" tvg-logo="" group-title="ULUSAL",SANCAK TV
 https://2.rtmp.org/tv219/yayin.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR2" tvg-logo="" group-title="ULUSAL",TR2
-http://cdn1-tr2tv.yayin.com.tr/tr2tv/tr2tv_720p/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="CİNE5" tvg-logo="" group-title="ULUSAL",CİNE5
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEON" tvg-logo="" group-title="ULUSAL",TELEON
+https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_canliyayin_uzanmediagroup_4kultrahd__/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="@@@ HABERLER @@@" tvg-logo="" group-title="HABERLER",@@@ HABERLER @@@
 https://sshyzhe.github.io/vod.m3u
 #EXTINF:-1 tvg-id="" tvg-name="FLASH TV" tvg-logo="" group-title="HABERLER",FLASH TV
