@@ -6,17 +6,15 @@ https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOW TV" tvg-logo="" group-title="ULUSAL",SHOW TV
 https://showtv.blutv.com/blutv_showtv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="" group-title="ULUSAL",ATV
-https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL D" tvg-logo="" group-title="ULUSAL",KANAL D
-https://kanald.blutv.com/blutv_kanald_live/live_720p2000000kbps/index.m3u8
+https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR" tvg-logo="" group-title="ULUSAL",STAR
 https://startv.blutv.com/blutv_startv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEYAZ TV" tvg-logo="" group-title="ULUSAL",BEYAZ TV
 https://beyaztv.blutv.com/blutv_beyaztv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KANAL 7" tvg-logo="" group-title="ULUSAL",KANAL 7
 https://kanal7.blutv.com/blutv_kanal7_live/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SHOWMAX" tvg-logo="" group-title="ULUSAL",SHOWMAX
-http://free.fullspeed.tv/iptv-query?streaming-ip=http://showmax.com.tr/canliyayin
 #EXTINF:-1 tvg-id="" tvg-name="TRT 1" tvg-logo="" group-title="ULUSAL",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT 2" tvg-logo="" group-title="ULUSAL",TRT 2
@@ -29,38 +27,16 @@ https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 8" tvg-logo="" group-title="ULUSAL",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV 8.5" tvg-logo="" group-title="ULUSAL",TV 8.5
-https://tv85.blutv.com/blutv_tv8_5_live/live_720p2000000kbps/index.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="TVEM" tvg-logo="" group-title="ULUSAL",TVEM
 http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="360 TV" tvg-logo="" group-title="ULUSAL",360 TV
 https://360tv.blutv.com/blutv_360tv_live/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TEVE2" tvg-logo="" group-title="ULUSAL",TEVE2
-https://teve2.blutv.com/blutv_teve2_live/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV 6" tvg-logo="" group-title="ULUSAL",TV 6
-http://yerelmedya.tv:1935/tivi6/bant1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AKILLI TV" tvg-logo="" group-title="ULUSAL",AKILLI TV
-http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BİZİM EV TV" tvg-logo="" group-title="ULUSAL",BİZİM EV TV
 https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WOMAN TV" tvg-logo="" group-title="ULUSAL",WOMAN TV
 https://s01.vpis.io/wmtv/wmtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="YOL TV" tvg-logo="" group-title="ULUSAL",YOL TV
-https://stream.yol.tv:9443/medialive/yol.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MC EU" tvg-logo="" group-title="ULUSAL",MC EU
+#EXTINF:-1 tvg-id="" tvg-name="SAMANYOLU TV" tvg-logo="" group-title="ULUSAL",SAMANYOLU TV
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAN TV" tvg-logo="" group-title="ULUSAL",CAN TV
-https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CEM TV" tvg-logo="" group-title="ULUSAL",CEM TV
-https://59c7ea6bec1c6.streamlock.net/filbox/cemtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEYAZ SİNEMA" tvg-logo="" group-title="ULUSAL",BEYAZ SİNEMA
-https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yabanci/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEYAZ DİZİ" tvg-logo="" group-title="ULUSAL",BEYAZ DİZİ
-https://beyazmedyatv.yayin.com.tr/beyazmedyatv-dizi/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEYAZ YEŞİLÇAM" tvg-logo="" group-title="ULUSAL",BEYAZ YEŞİLÇAM
-https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yesilcam/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CİNEMİDİ" tvg-logo="" group-title="ULUSAL",CİNEMİDİ
-https://cdn-cinemidi.yayin.com.tr/cinemidi/cinemidi/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHT SİNEMA" tvg-logo="" group-title="ULUSAL",NHT SİNEMA
 https://tv.ntnhd.com:3588/multi_web/play_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BLU TV PLAY 1" tvg-logo="" group-title="ULUSAL",BLU TV PLAY 1
@@ -71,26 +47,17 @@ http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
 https://2.rtmp.org/tv219/yayin.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CİNE5" tvg-logo="" group-title="ULUSAL",CİNE5
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEON" tvg-logo="" group-title="ULUSAL",TELEON
-https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_canliyayin_uzanmediagroup_4kultrahd__/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="@@@ HABERLER @@@" tvg-logo="" group-title="HABERLER",@@@ HABERLER @@@
 https://sshyzhe.github.io/vod.m3u
 #EXTINF:-1 tvg-id="" tvg-name="FLASH TV" tvg-logo="" group-title="HABERLER",FLASH TV
 https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A HABER" tvg-logo="" group-title="HABERLER",A HABER
 http://213.172.73.133:8081/nimble_live/9076_A_Haber_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BENGÜTÜRK" tvg-logo="" group-title="HABERLER",BENGÜTÜRK
-https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24" tvg-logo="" group-title="HABERLER",24
-https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVNET" tvg-logo="" group-title="HABERLER",TVNET
-https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 100" tvg-logo="" group-title="HABERLER",TV 100
 https://tv100.blutv.com/blutv_tv100_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABERGLOBAL" tvg-logo="" group-title="HABERLER",HABERGLOBAL
 https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AKİT TV" tvg-logo="" group-title="HABERLER",AKİT TV
-https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HALK TV" tvg-logo="" group-title="HABERLER",HALK TV
 https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRT" tvg-logo="" group-title="HABERLER",KRT
@@ -103,8 +70,6 @@ https://mn-nl.mncdn.com/blutv_ulusalkanal/smil:blutv_ulusalkanal.smil/chunklist_
 https://cnnturk.blutv.com/blutv_cnnturk_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABERTURK" tvg-logo="" group-title="HABERLER",HABERTURK
 https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG HT" tvg-logo="" group-title="HABERLER",BLOOMBERG HT
-https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" group-title="HABERLER",NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT HABER" tvg-logo="" group-title="HABERLER",TRT HABER
@@ -154,20 +119,10 @@ https://tv-e-okul02.medya.trt.com.tr/master_720.m3u8
 https://sshyzhe.github.io/vod.m3u
 #EXTINF:-1 tvg-id="" tvg-name="POWER TURK" tvg-logo="" group-title="TÜRKÇE MÜZİK",POWER TURK
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b1428000_sltur.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POWER TÜRK SLOW" tvg-logo="" group-title="TÜRKÇE MÜZİK",POWER TÜRK SLOW
-https://listen.powerapp.com.tr/pturkslow/slow.smil/chunklist_b1628000_sltur.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="POWER TV" tvg-logo="" group-title="TÜRKÇE MÜZİK",POWER TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b1428000_sltur.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POWER DANCE" tvg-logo="" group-title="TÜRKÇE MÜZİK",POWER DANCE
-https://listen.powerapp.com.tr/dance/dance.smil/chunklist_b1628000_sltur.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POWER LOVE" tvg-logo="" group-title="TÜRKÇE MÜZİK",POWER LOVE
-https://listen.powerapp.com.tr/plove/love.smil/chunklist_b1628000_sltur.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POWER PLUS" tvg-logo="" group-title="TÜRKÇE MÜZİK",POWER PLUS
-https://livetv.powerapp.com.tr/pplustv/pplustv.smil/chunklist_b1628000_sltur.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT MÜZİK" tvg-logo="" group-title="TÜRKÇE MÜZİK",TRT MÜZİK
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DREAM TÜRK" tvg-logo="" group-title="TÜRKÇE MÜZİK",DREAM TÜRK
-https://mn-nl.mncdn.com/blutv_dreamturk2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NR1" tvg-logo="" group-title="TÜRKÇE MÜZİK",NR1
 https://mn-nl.mncdn.com/blutv_nr12/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NR1 TÜRK" tvg-logo="" group-title="TÜRKÇE MÜZİK",NR1 TÜRK
@@ -178,16 +133,6 @@ https://dogus-live.daioncdn.net/kraltv/kraltv_720p.m3u8
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MİLYON TV" tvg-logo="" group-title="TÜRKÇE MÜZİK",MİLYON TV
 https://mn-nl.mncdn.com/blutv_milyontv/milyontv_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TATLISES TV" tvg-logo="" group-title="TÜRKÇE MÜZİK",TATLISES TV
-http://yerelmedya.tv:1935/tatlisestv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SLOW KARADENİZ TV" tvg-logo="" group-title="TÜRKÇE MÜZİK",SLOW KARADENİZ TV
-https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SLOW KARADENİZ FM" tvg-logo="" group-title="TÜRKÇE MÜZİK",SLOW KARADENİZ FM
-https://dinle.slowkaradenizfm.com:9578/listen.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RİZE TÜRK TV" tvg-logo="" group-title="TÜRKÇE MÜZİK",RİZE TÜRK TV
-https://yayin.rizeturk.com:3777/multi_web/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KARADENİZ TÜRK FM" tvg-logo="" group-title="TÜRKÇE MÜZİK",KARADENİZ TÜRK FM
-https://radyo.yayin.com.tr:6134/listen.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="@@@ YABANCI MÜZİK @@@" tvg-logo="" group-title="YABANCI MÜZİK",@@@ YABANCI MÜZİK @@@
 https://sshyzhe.github.io/vod.m3u
@@ -291,8 +236,6 @@ http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
 https://sc.id-tv.kz/mezzo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="" group-title="YABANCI MÜZİK",TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MMC TV" tvg-logo="" group-title="YABANCI MÜZİK",MMC TV
-https://29-rtvslo-tv-mmc-int.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV YO" tvg-logo="" group-title="YABANCI MÜZİK",MTV YO
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV BİGGEST POP" tvg-logo="" group-title="YABANCI MÜZİK",MTV BİGGEST POP
@@ -317,14 +260,8 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 https://trkvz-live.daioncdn.net/aspor/aspor_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT SPOR" tvg-logo="" group-title="SPOR",TRT SPOR
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR YILDIZ" tvg-logo="" group-title="SPOR",TRT SPOR YILDIZ
+#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR 2" tvg-logo="" group-title="SPOR",TRT SPOR 2
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BRİC&SATRANÇ TV" tvg-logo="" group-title="SPOR",BRİC&SATRANÇ TV
-http://139.162.182.79/live/test/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRACE SPORTS" tvg-logo="" group-title="SPOR",TRACE SPORTS
-https://lightning-tracesport-samsungau.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FTF SPORTS" tvg-logo="" group-title="SPOR",FTF SPORTS
-https://elevensports.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="@@@ +18 @@@" tvg-logo="" group-title="+18",@@@ +18 @@@
 https://sshyzhe.github.io/vod.m3u
@@ -378,22 +315,6 @@ http://cdn.adultiptv.net/blonde.m3u8
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ASİAN" tvg-logo="" group-title="+18",ASİAN
 http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MİAMİ TV" tvg-logo="" group-title="+18",MİAMİ TV
-https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MİAMİ TV LATİNO" tvg-logo="" group-title="+18",MİAMİ TV LATİNO
-https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MİAMİ TV MEXİCO" tvg-logo="" group-title="+18",MİAMİ TV MEXİCO
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VİSİT X" tvg-logo="" group-title="+18",VİSİT X
-http://stream.visit-x.tv:1935/vxtv/live_720p/chunklist_w1466164974.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AST TV 1" tvg-logo="" group-title="+18",AST TV 1
-https://www.ast.tv/stream/1/ultra.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AST TV 2" tvg-logo="" group-title="+18",AST TV 2
-https://www.ast.tv/stream/2/ultra.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HUSTLER HD" tvg-logo="" group-title="+18",HUSTLER HD
-http://193.33.240.8/hustler_hd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="İBİZA HD" tvg-logo="" group-title="+18",İBİZA HD
-https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="[VOD]" tvg-logo="" group-title="VOD",[VOD]
 https://sshyzhe.github.io/vod.m3u
