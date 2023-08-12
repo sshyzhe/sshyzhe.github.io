@@ -319,7 +319,7 @@ http://cdn.adultiptv.net/asian.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[VOD]" tvg-logo="" group-title="VOD",[VOD]
 https://sshyzhe.github.io/vod.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Türbülans 3" tvg-logo="" group-title="VOD",Türbülans 3
-https://ia600505.us.archive.org/35/items/tr3_20230812/tr3.mp4
+https://archive.org/download/tr3_20230812/tr3.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sevginin Gücü Adına Leon" tvg-logo="" group-title="VOD",Sevginin Gücü Adına Leon
 https://archive.org/download/ln_20220923/ln.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Geçmişin Günahları" tvg-logo="" group-title="VOD",Geçmişin Günahları
