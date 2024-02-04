@@ -38,6 +38,8 @@ https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin_h
 
 #EXTINF:-1 tvg-id="" tvg-name="@@@ HABERLER @@@" tvg-logo="" group-title="HABERLER",@@@ HABERLER @@@
 https://sshyzhe.github.io/vod.m3u
+#EXTINF:-1 tvg-id="" tvg-name="SZC TV" tvg-logo="" group-title="HABERLER",SZC TV
+http://stream.tvcdn.net/haber/sozcu-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FLASH TV" tvg-logo="" group-title="HABERLER",FLASH TV
 http://stream.tvcdn.net/haber/flash-haber.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A HABER" tvg-logo="" group-title="HABERLER",A HABER
@@ -47,25 +49,23 @@ https://tv100.blutv.com/blutv_tv100_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABERGLOBAL" tvg-logo="" group-title="HABERLER",HABERGLOBAL
 http://stream.tvcdn.net/haber/haber-global.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HALK TV" tvg-logo="" group-title="HABERLER",HALK TV
-https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
+http://stream.tvcdn.net/haber/halk-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KRT" tvg-logo="" group-title="HABERLER",KRT
 https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELE 1" tvg-logo="" group-title="HABERLER",TELE 1
 https://tele1.blutv.com/blutv_tele1_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ULUSAL KANAL" tvg-logo="" group-title="HABERLER",ULUSAL KANAL
-https://mn-nl.mncdn.com/blutv_ulusalkanal/smil:blutv_ulusalkanal.smil/chunklist_b2096000.m3u8
+http://stream.tvcdn.net/haber/ulusal-kanal.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN TURK" tvg-logo="" group-title="HABERLER",CNN TURK
-https://cnnturk.blutv.com/blutv_cnnturk_live/live_720p2000000kbps/index.m3u8
+http://stream.tvcdn.net/haber/cnn-turk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HABERTURK" tvg-logo="" group-title="HABERLER",HABERTURK
-https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
+http://stream.tvcdn.net/haber/haberturk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" group-title="HABERLER",NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT HABER" tvg-logo="" group-title="HABERLER",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGRT HABER" tvg-logo="" group-title="HABERLER",TGRT HABER
-https://mn-nl.mncdn.com/blutv_tgrthaber2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ÜLKE TV" tvg-logo="" group-title="HABERLER",ÜLKE TV
-https://mn-nl.mncdn.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8
+http://stream.tvcdn.net/haber/tgrt-haber.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="@@@ BELGESEL @@@" tvg-logo="" group-title="BELGESEL",@@@ BELGESEL @@@
 https://sshyzhe.github.io/vod.m3u
@@ -77,16 +77,6 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT BELGESEL" tvg-logo="" group-title="BELGESEL",TRT BELGESEL
 http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="YABAN TV" tvg-logo="" group-title="BELGESEL",YABAN TV
-https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TGRT BELGESEL" tvg-logo="" group-title="BELGESEL",TGRT BELGESEL
-https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEYAZ BELGESEL" tvg-logo="" group-title="BELGESEL",BEYAZ BELGESEL
-https://beyazmedyatv.yayin.com.tr/beyazmedyatv-belgesel/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CRİ TURK" tvg-logo="" group-title="BELGESEL",CRİ TURK
-https://stream.guventechnology.com:19360/criturktv/criturktv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NHT BELGESEL" tvg-logo="" group-title="BELGESEL",NHT BELGESEL
-https://tv.ntnhd.com:3189/multi_web/play_720.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="@@@ ÇOCUK @@@" tvg-logo="" group-title="ÇOCUK",@@@ ÇOCUK @@@
 https://sshyzhe.github.io/vod.m3u
