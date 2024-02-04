@@ -236,16 +236,6 @@ http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
 https://sc.id-tv.kz/mezzo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="" group-title="YABANCI MÜZİK",TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV YO" tvg-logo="" group-title="YABANCI MÜZİK",MTV YO
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV BİGGEST POP" tvg-logo="" group-title="YABANCI MÜZİK",MTV BİGGEST POP
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MİAW PLUTO" tvg-logo="" group-title="YABANCI MÜZİK",MİAW PLUTO
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master_2400.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV SPANKİNG NEW" tvg-logo="" group-title="YABANCI MÜZİK",MTV SPANKİNG NEW
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master_2400.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CMT MUSİC" tvg-logo="" group-title="YABANCI MÜZİK",CMT MUSİC
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master_2400.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="@@@ MODA @@@" tvg-logo="" group-title="MODA",@@@ MODA @@@
 https://sshyzhe.github.io/vod.m3u
